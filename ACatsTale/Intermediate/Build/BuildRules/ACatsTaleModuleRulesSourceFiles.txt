@@ -1,0 +1,3 @@
+C:\Users\Anime Tiddies\Documents\Unreal Projects\ACatsTale\Source\ACatsTale\ACatsTale.Build.cs
+C:\Users\Anime Tiddies\Documents\Unreal Projects\ACatsTale\Source\ACatsTale.Target.cs
+C:\Users\Anime Tiddies\Documents\Unreal Projects\ACatsTale\Source\ACatsTaleEditor.Target.cs

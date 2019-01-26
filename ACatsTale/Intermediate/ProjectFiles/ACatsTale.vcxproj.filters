@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ACatsTale.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F90EF45C-ABBA-4707-8859-2844F333D150}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ACatsTale.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ACatsTaleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4DA7C0DF-916E-4E86-8CC5-9CB1EAEBDBC5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ACatsTale">
+      <UniqueIdentifier>{BE0CE878-8716-4C3C-8705-6A98D876C6D1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ACatsTale\ACatsTale.Build.cs">
+      <Filter>Source\ACatsTale</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ACatsTale\ACatsTale.cpp">
+      <Filter>Source\ACatsTale</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ACatsTale\ACatsTale.h">
+      <Filter>Source\ACatsTale</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ACatsTale\ACatsTaleCharacter.cpp">
+      <Filter>Source\ACatsTale</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ACatsTale\ACatsTaleCharacter.h">
+      <Filter>Source\ACatsTale</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ACatsTale\ACatsTaleGameMode.cpp">
+      <Filter>Source\ACatsTale</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ACatsTale\ACatsTaleGameMode.h">
+      <Filter>Source\ACatsTale</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
