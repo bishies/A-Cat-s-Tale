@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ACatsTale.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{F90EF45C-ABBA-4707-8859-2844F333D150}</UniqueIdentifier>
+      <UniqueIdentifier>{2E276B10-2A74-4B28-8F32-55C287FDF398}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ACatsTale.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{4DA7C0DF-916E-4E86-8CC5-9CB1EAEBDBC5}</UniqueIdentifier>
+      <UniqueIdentifier>{C9683BD5-54DB-4BC2-8346-A3AF744FC596}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ACatsTale">
-      <UniqueIdentifier>{BE0CE878-8716-4C3C-8705-6A98D876C6D1}</UniqueIdentifier>
+      <UniqueIdentifier>{836E346E-E091-4C2D-9972-78432CD07E05}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ACatsTale\ACatsTale.Build.cs">
       <Filter>Source\ACatsTale</Filter>
