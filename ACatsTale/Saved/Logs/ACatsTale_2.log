@@ -13373,3 +13373,971 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.27-00.59.26:689][787]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/HouseA898E323423AFD00FC7DF7BDFAA3542A.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House.umap'
 [2019.01.27-00.59.26:729][787]LogFileHelpers: Saving map 'House' took 0.534
 [2019.01.27-00.59.26:862][787]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/House_BuiltDataB45D210148DB1D4446F6F69104D58DB1.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House_BuiltData.uasset'
+[2019.01.27-01.00.15:849][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-01.00.29:353][189]LogEditorViewport: Clicking on Actor (CTRL LMB): smackableSmall_C (smackableSmall7)
+[2019.01.27-01.00.29:626][202]LogEditorViewport: Clicking on Actor (CTRL LMB): smackableSmall_C (smackableSmall8)
+[2019.01.27-01.00.30:211][236]LogEditorViewport: Clicking on Actor (CTRL LMB): smackableLarge_C (smackableLarge4)
+[2019.01.27-01.00.37:837][686]LogEditorViewport: Clicking on Actor (LMB): smackableLarge_C (smackableLarge3)
+[2019.01.27-01.00.38:132][702]LogEditorViewport: Clicking on Actor (CTRL LMB): smackableMedium_C (smackableMedium6)
+[2019.01.27-01.00.48:989][331]LogEditorViewport: Clicking on Actor (LMB): smackableMedium_C (smackableMedium6)
+[2019.01.27-01.00.49:865][381]LogEditorViewport: Clicking on Actor (LMB): smackableMedium_C (smackableMedium6)
+[2019.01.27-01.01.26:425][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-01.02.31:087][319]LogEditorViewport: Clicking on Actor (LMB): smackableMedium_C (smackableMedium8)
+[2019.01.27-01.02.35:396][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-01.02.37:679][692]Cmd: DUPLICATE
+[2019.01.27-01.02.37:679][692]Cmd: ACTOR DUPLICATE
+[2019.01.27-01.03.17:739][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-01.03.34:804][  2]Cmd: DELETE
+[2019.01.27-01.03.34:804][  2]Cmd: ACTOR DELETE
+[2019.01.27-01.03.34:823][  2]LogEditorActor: Deleted Actor: Brush
+[2019.01.27-01.03.34:898][  2]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2019.01.27-01.03.40:249][314]Cmd: TRANSACTION UNDO
+[2019.01.27-01.03.40:250][314]LogEditorTransaction: Undo Move Actors
+[2019.01.27-01.03.40:320][314]LogMaterial: Display: Missing cached shader map for material NearCameraFade, compiling. 
+[2019.01.27-01.03.40:385][314]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.01.27-01.03.40:385][314]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.01.27-01.03.40:385][314]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.01.27-01.03.40:385][314]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.01.27-01.03.40:806][329]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.01.27-01.03.40:821][330]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.01.27-01.03.40:837][331]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.01.27-01.03.40:853][332]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.01.27-01.03.40:987][340]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.01.27-01.03.41:036][343]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.01.27-01.03.41:322][360]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.01.27-01.03.41:353][362]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.01.27-01.03.41:421][366]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.01.27-01.03.41:892][394]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.01.27-01.03.41:955][398]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.01.27-01.03.42:004][401]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.01.27-01.03.42:327][420]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.01.27-01.03.42:412][425]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.01.27-01.03.42:464][427]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.01.27-01.03.42:591][428]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.01.27-01.03.42:903][446]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.01.27-01.03.43:137][460]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.01.27-01.03.43:224][465]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.01.27-01.03.43:310][470]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.01.27-01.03.43:507][482]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.01.27-01.03.43:791][499]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.01.27-01.03.43:825][501]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.27-01.03.43:891][505]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.01.27-01.03.44:144][520]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.01.27-01.03.44:357][533]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.01.27-01.03.44:397][535]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.01.27-01.03.44:489][541]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.01.27-01.03.44:590][547]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.01.27-01.03.44:690][553]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.01.27-01.03.44:714][554]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.27-01.03.44:859][563]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.01.27-01.03.44:959][569]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.27-01.03.45:009][572]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.01.27-01.03.45:192][583]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.27-01.03.45:340][592]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.01.27-01.03.45:391][595]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.27-01.03.45:653][606]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.27-01.03.45:856][618]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.27-01.03.45:903][621]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.27-01.03.46:071][631]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.27-01.03.46:303][645]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.27-01.03.46:403][651]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.27-01.03.46:403][651]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.27-01.03.46:705][669]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.27-01.03.46:987][686]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.27-01.03.46:987][686]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.27-01.03.47:019][688]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.27-01.03.47:387][710]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.27-01.03.47:520][718]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.27-01.03.47:588][722]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.27-01.03.47:621][724]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.27-01.03.47:921][742]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.27-01.03.48:139][755]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.27-01.03.48:160][756]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.27-01.03.48:305][765]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.27-01.03.48:354][768]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.27-01.03.48:505][777]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.27-01.03.48:521][778]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.27-01.03.48:586][782]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.27-01.03.48:722][790]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-01.03.48:838][797]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.27-01.03.48:971][805]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.27-01.03.49:070][811]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.27-01.03.49:178][817]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.27-01.03.49:454][834]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.27-01.03.49:589][842]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.27-01.03.49:605][843]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.27-01.03.49:838][857]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.27-01.03.50:072][871]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.27-01.03.50:089][872]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-01.03.50:103][873]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.27-01.03.50:455][894]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.27-01.03.50:639][905]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.27-01.03.50:688][908]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.27-01.03.50:704][909]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.27-01.03.51:006][927]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.27-01.03.51:206][939]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.27-01.03.51:271][943]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.27-01.03.51:320][946]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.27-01.03.51:572][961]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-01.03.51:756][972]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-01.03.52:312][  5]MaterialEditorStats: Base pass shader: 70 instructions
+[2019.01.27-01.03.52:313][  5]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 91 instructions
+[2019.01.27-01.03.52:313][  5]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2019.01.27-01.03.52:313][  5]MaterialEditorStats: Base pass vertex shader: 161 instructions
+[2019.01.27-01.03.52:313][  5]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.27-01.04.09:664][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-01.04.10:118][ 45]Cmd: DUPLICATE
+[2019.01.27-01.04.10:118][ 45]Cmd: ACTOR DUPLICATE
+[2019.01.27-01.04.45:058][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-01.04.45:125][ 83]MapCheck: New page: Map Check
+[2019.01.27-01.04.45:155][ 83]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.27-01.04.45:161][ 83]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.27-01.04.45:577][ 83]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.27-01.04.45:590][ 83]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-01.04.45:590][ 83]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.27-01.04.45:600][ 83]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-01.04.45:601][ 83]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy RampMaterial, compiling. 
+[2019.01.27-01.04.45:612][ 83]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.27-01.04.45:623][ 83]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-01.04.45:623][ 83]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2019.01.27-01.04.46:087][ 83]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-01.04.46:087][ 83]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-01.04.46:087][ 83]TextureStreamingBuild: Display: Compiling optional shaders took 0.515 seconds.
+[2019.01.27-01.04.46:093][ 83]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2019.01.27-01.04.46:202][ 83]TextureStreamingBuild: Display: Build Texture Streaming took 0.108 seconds.
+[2019.01.27-01.04.46:235][ 83]LightingResults: New page: Lighting Build - Jan 26, 2019, 3:04:46 PM
+[2019.01.27-01.04.46:250][ 83]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.27-01.04.46:252][ 83]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.27-01.04.46:252][ 83]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.27-01.04.46:253][ 83]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.27-01.04.46:253][ 83]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12992
+[2019.01.27-01.04.50:773][ 83]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.27-01.04.50:774][ 83]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.27-01.04.50:774][ 83]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.27-01.04.50:774][ 83]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.27-01.04.50:774][ 83]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.27-01.04.50:774][ 83]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.27-01.04.50:923][ 83]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.27-01.04.50:923][ 83]MapCheck: New page: House - Jan 26, 2019, 3:04:50 PM
+[2019.01.27-01.04.50:924][ 83]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.27-01.04.50:927][ 83]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 3.48ms to complete.
+[2019.01.27-01.04.50:950][ 83]LogEditorBuildUtils: Build time 0:05
+[2019.01.27-01.04.57:991][439]Job is a success!
+[2019.01.27-01.04.58:103][440]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2019.01.27-01.04.58:103][440]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.27-01.04.58:103][440]LogVolumetricLightmapImport:      BrickData 385x5x5 = 0.3Mb
+[2019.01.27-01.04.58:103][440]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.27-01.04.58:103][440]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2019.01.27-01.04.58:103][440]LogVolumetricLightmapImport:          1: 5.2% covering 6.3% of volume
+[2019.01.27-01.04.58:103][440]LogVolumetricLightmapImport:          2: 93.5% covering 1.8% of volume
+[2019.01.27-01.04.58:483][440]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.27-01.04.58:483][440]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.27-01.04.58:483][440]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.01.27-01.04.58:483][440]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.01.27-01.04.58:483][440]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.01.27-01.04.58:483][440]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.01.27-01.04.58:575][440]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 32X32)
+[2019.01.27-01.04.58:575][440]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 1024X64)
+[2019.01.27-01.04.58:575][440]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 512X512)
+[2019.01.27-01.04.58:635][440]Lightmass on MSI: 6.53 sec total, 213 ms importing, 33 ms setup, 3.79 sec photons, 2.43 sec processing, 0 ms extra exporting [303/303 mappings]. Threads: 16.8 sec total, 8.38 sec processing.
+[2019.01.27-01.04.58:685][440]LogStaticLightingSystem: Illumination: 12.4 sec (255 ms encoding lightmaps, 72 ms encoding shadowmaps)
+[2019.01.27-01.04.58:685][440]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (0.5 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.01.27-01.04.58:685][440]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.1 MB streaming, 0.3 MB non-streaming), 3 textures
+[2019.01.27-01.04.58:780][440]DumpUnbuiltLightIteractions
+[2019.01.27-01.04.58:780][440]Lights with unbuilt interactions: 0
+[2019.01.27-01.04.58:780][440]
+[2019.01.27-01.04.58:780][440]Primitives with unbuilt interactions: 0
+[2019.01.27-01.04.58:932][441]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.27-01.04.58:932][441]MapCheck: New page: House - Jan 26, 2019, 3:04:58 PM
+[2019.01.27-01.04.58:939][441]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.852ms to complete.
+[2019.01.27-01.05.04:003][738]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-01.05.04:015][738]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-01.09.25:249][995]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/House_Auto7A2FF190448735980AC3A079154ABF923.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/ThirdPersonCPP/Maps/House_Auto7.umap'
+[2019.01.27-01.09.25:257][995]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/House' took 0.475
+[2019.01.27-01.09.25:257][995]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.475
+[2019.01.27-01.19.25:685][783]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/House' took 0.032
+[2019.01.27-01.21.05:410][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-01.21.05:476][180]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-01.21.05:501][180]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-01.21.05:501][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-01.21.05:501][180]PIE: New page: PIE session: House (Jan 26, 2019, 3:21:05 PM)
+[2019.01.27-01.21.05:501][180]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-01.21.05:540][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038766s)
+[2019.01.27-01.21.05:541][180]LogAIModule: Creating AISystem for world House
+[2019.01.27-01.21.05:542][180]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2019.01.27-01.21.05:542][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.040205s)
+[2019.01.27-01.21.05:586][180]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-01.21.05:594][180]LogInit: FAudioDevice initialized.
+[2019.01.27-01.21.05:627][180]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-01.21.05:633][180]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 60) at 2019.01.26-20.21.05
+[2019.01.27-01.21.05:634][180]LogWorld: Bringing up level for play took: 0.006154
+[2019.01.27-01.21.05:649][180]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House -0.554
+[2019.01.27-01.21.05:649][180]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-01.21.52:952][ 13]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.21.52:952][ 13]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.21.52:952][ 13]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.21.53:168][ 26]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.21.53:168][ 26]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.21.53:168][ 26]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.21.53:352][ 37]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.21.53:352][ 37]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.21.53:352][ 37]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.21.53:501][ 46]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.21.53:501][ 46]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.21.53:502][ 46]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.21.53:668][ 56]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.21.53:668][ 56]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.21.53:668][ 56]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.21.53:819][ 65]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.21.53:819][ 65]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.21.53:819][ 65]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.21.54:002][ 76]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.21.54:003][ 76]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.21.54:003][ 76]PIE: Warning: nonsmackableLarge6.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.21.54:602][112]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.21.54:954][133]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.21.56:835][246]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.21.56:835][246]PIE: Warning: nonsmackableLarge2.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.21.56:835][246]PIE: Warning: nonsmackableLarge2.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.21.58:136][324]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.21.58:136][324]PIE: Warning: nonsmackableLarge_2.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.21.58:136][324]PIE: Warning: nonsmackableLarge_2.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.21.58:336][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.21.58:336][336]PIE: Warning: nonsmackableLarge_2.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.21.58:336][336]PIE: Warning: nonsmackableLarge_2.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.22.00:103][442]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.22.00:103][442]PIE: Warning: nonsmackableLarge5.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.22.00:103][442]PIE: Warning: nonsmackableLarge5.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.22.00:354][457]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.22.00:354][457]PIE: Warning: nonsmackableLarge5.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.22.00:354][457]PIE: Warning: nonsmackableLarge5.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.22.00:503][466]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.22.00:503][466]PIE: Warning: nonsmackableLarge5.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.22.00:503][466]PIE: Warning: nonsmackableLarge5.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.22.00:704][478]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.22.00:704][478]PIE: Warning: nonsmackableLarge5.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2019.01.27-01.22.00:704][478]PIE: Warning: nonsmackableLarge5.PhysicsBody 1M_Cube has to have 'Simulate Physics' enabled if you'd like to AddTorque. 
+[2019.01.27-01.24.32:526][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-01.24.32:526][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-01.24.32:568][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-01.24.32:568][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-01.24.32:606][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-01.24.32:634][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-01.24.32:745][573]LogPlayLevel: Display: Destroying online subsystem :Context_280
+[2019.01.27-01.24.35:914][691]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-01.24.35:925][691]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-01.25.23:061][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-01.25.34:145][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-01.25.34:231][618]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.27-01.25.36:065][691]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-01.25.36:086][691]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-01.25.36:087][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-01.25.36:087][691]PIE: New page: PIE session: House (Jan 26, 2019, 3:25:36 PM)
+[2019.01.27-01.25.36:087][691]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-01.25.36:124][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037207s)
+[2019.01.27-01.25.36:126][691]LogAIModule: Creating AISystem for world House
+[2019.01.27-01.25.36:126][691]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2019.01.27-01.25.36:126][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.038797s)
+[2019.01.27-01.25.36:165][691]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-01.25.36:182][691]LogInit: FAudioDevice initialized.
+[2019.01.27-01.25.36:213][691]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-01.25.36:220][691]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 60) at 2019.01.26-20.25.36
+[2019.01.27-01.25.36:220][691]LogWorld: Bringing up level for play took: 0.006103
+[2019.01.27-01.25.36:234][691]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House 0.031
+[2019.01.27-01.25.36:235][691]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-01.25.40:187][925]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.40:320][933]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.40:487][943]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.40:670][954]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.42:271][ 50]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.42:453][ 61]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.42:603][ 70]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.43:204][106]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.43:670][134]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.43:854][145]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.45:338][234]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.45:656][253]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.45:837][264]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.46:005][274]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.46:172][284]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.46:921][329]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.47:322][353]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.47:539][366]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.47:705][376]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.47:872][386]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.51:989][633]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.52:155][643]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.52:272][650]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.53:938][750]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.54:972][812]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.25.55:174][824]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.00:989][173]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.01:522][205]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.18:142][202]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.18:408][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.20:176][324]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.20:374][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.20:508][344]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.20:825][363]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.20:992][373]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.21:142][382]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.21:275][390]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.21:424][399]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.21:575][408]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.21:725][417]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.21:859][425]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.22:159][443]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.22:308][452]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.22:475][462]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.22:658][473]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.22:825][483]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.22:958][491]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.23:125][501]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.23:326][513]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.23:692][535]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.23:893][547]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.24:125][561]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.24:309][572]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.24:525][585]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.24:725][597]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.24:892][607]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.25:059][617]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.25:242][628]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.25:443][640]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.25:659][653]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.25:859][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.26:059][677]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.26:241][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.26:442][700]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.26:658][713]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.26:824][723]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.27:025][735]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.27:176][744]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.27:359][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.27:538][764]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.27:737][776]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.27:938][788]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.28:104][798]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.28:304][810]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.28:472][820]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.28:655][831]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.28:855][843]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.29:037][854]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.29:238][866]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.29:455][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.29:621][889]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.29:805][900]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.29:972][910]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.30:140][920]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.30:338][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.30:504][942]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.30:688][953]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.30:871][964]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.31:038][974]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.31:189][983]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.31:355][993]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.31:489][  1]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.31:654][ 11]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.31:805][ 20]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.44:007][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.44:208][764]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.45:091][817]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.45:307][830]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.45:558][845]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.45:774][858]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.47:857][983]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.49:241][ 66]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.49:542][ 84]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.26.49:891][105]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.03:543][924]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-34.13 Y=-0.57 Z=0.00 Location: X=2470.00 Y=-311.49 Z=182.13 Normal: X=0.93 Y=0.36 Z=0.11 PenetrationDepth:0.041 Actor:smackableSmall2_5 Component:PhysicsBody BoneName:None (0 other events since notify)
+[2019.01.27-01.27.09:878][304]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.10:061][315]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.10:195][323]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.10:378][334]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.11:828][421]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.37:793][977]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.38:110][996]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.38:493][ 19]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.38:642][ 28]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.40:361][131]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.40:676][150]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.41:010][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.43:528][321]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.43:844][340]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.44:093][355]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.44:860][401]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.45:126][417]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.45:393][433]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.45:612][446]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.45:810][458]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.46:011][470]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.46:194][481]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.46:377][492]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.46:577][504]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.46:845][520]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.47:028][531]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.47:161][539]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.47:328][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.47:460][557]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.47:610][566]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.47:778][576]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.47:944][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.27.48:245][604]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.25:432][835]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.25:599][845]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.25:766][855]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.26:832][919]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.27:016][930]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.27:182][940]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.28:065][993]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.28:249][  4]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.28:398][ 13]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.29:515][ 80]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.29:712][ 90]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.48:881][240]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.49:031][249]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.51:015][368]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.52:064][431]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.52:298][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.28.53:214][500]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.11:117][574]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.11:467][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.11:683][608]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.20:235][121]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.20:385][130]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.20:502][137]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.21:768][213]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.21:918][222]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.22:035][229]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.23:302][305]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.23:435][313]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.23:569][321]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.26:768][513]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.26:918][522]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.28:153][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.28:286][604]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.38:086][190]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.38:387][208]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.39:686][286]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.39:820][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.39:954][302]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.40:070][309]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.40:186][316]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.40:303][323]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.40:436][331]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.40:586][340]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.45:871][657]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.46:003][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.29.46:187][676]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.30.11:299][182]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.30.11:450][191]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.30.11:584][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.30.11:716][207]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.30.11:850][215]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.30.18:701][626]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-32.42 Y=-10.67 Z=0.00 Location: X=3110.81 Y=666.93 Z=32.20 Normal: X=-0.50 Y=-0.87 Z=0.00 PenetrationDepth:0.020 Actor:smackableMedium9_16 Component:PhysicsBody BoneName:None (0 other events since notify)
+[2019.01.27-01.30.38:430][808]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.30.38:613][819]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.30.53:833][732]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.30.54:265][758]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.38:255][395]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.47:757][965]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.49:039][ 42]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.49:290][ 57]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.49:491][ 69]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.50:390][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.51:190][171]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.51:391][183]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.51:590][195]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.51:774][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.51:957][217]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.52:158][229]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.52:325][239]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.52:508][250]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.52:624][257]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.52:775][266]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.52:907][274]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.53:041][282]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.53:157][289]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.53:291][297]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.53:441][306]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.53:558][313]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.53:675][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.53:808][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.53:942][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.54:058][343]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.54:207][352]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.54:341][360]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.54:459][367]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.54:591][375]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.54:724][383]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.54:857][391]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.54:991][399]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.55:124][407]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.55:241][414]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.55:359][421]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.55:491][429]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.55:609][436]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.55:726][443]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.55:842][450]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.55:960][457]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.56:807][508]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.56:941][516]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.57:057][523]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.57:193][531]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.57:324][539]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.57:508][550]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.57:707][562]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.57:892][573]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.59:808][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.31.59:958][697]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.00:119][706]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.07:694][161]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.07:861][171]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.07:995][179]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.08:178][190]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.12:496][449]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.14:713][582]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.14:830][589]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.14:949][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.15:080][604]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.15:197][611]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.16:196][671]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.16:329][679]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.24:380][162]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.25:031][201]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.25:181][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.25:347][220]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.26:481][288]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.26:615][296]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.29:265][455]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.29:398][463]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.29:533][471]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.29:648][478]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.29:781][486]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.29:915][494]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.32:033][621]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.32:183][630]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.32:332][639]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.32:515][650]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.32:682][660]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.32:833][669]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.32:965][677]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.33:117][686]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.33:249][694]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.33:466][707]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.33:649][718]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.33:832][729]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.34:016][740]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.34:176][748]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.34:325][757]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.34:709][780]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.34:859][789]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.35:176][808]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.36:392][881]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.37:125][925]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.39:359][ 59]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.39:509][ 68]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.39:643][ 76]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.43:276][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.43:410][302]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.43:561][311]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.45:343][418]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.45:793][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.57:596][153]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.57:761][163]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.32.59:878][290]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.00:063][301]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.12:779][ 64]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.13:230][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.13:598][113]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.17:681][358]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.17:799][365]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.17:916][372]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.18:565][411]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.18:715][420]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.18:848][428]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.19:498][467]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.19:631][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.19:765][483]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.19:915][492]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.20:065][501]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.20:199][509]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.20:365][519]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.20:515][528]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.20:683][538]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.20:849][548]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.21:015][558]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.21:166][567]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.21:315][576]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.21:448][584]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.21:565][591]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.21:698][599]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.21:815][606]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.21:982][616]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.22:098][623]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.22:248][632]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.22:381][640]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.22:532][649]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.22:682][658]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.22:833][667]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.22:999][677]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.23:165][687]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.23:398][701]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.23:565][711]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.24:998][797]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.25:133][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.25:282][814]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.25:583][832]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.25:715][840]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.26:215][870]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.26:382][880]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.26:565][891]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.26:734][901]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.26:916][912]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.28:699][ 19]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.28:849][ 28]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.29:000][ 37]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.29:166][ 47]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.30:366][119]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.30:499][127]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.34:217][350]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.34:366][359]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.39:880][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.40:046][698]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.40:196][707]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.40:362][717]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.40:528][727]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.40:846][746]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.41:014][756]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.41:180][766]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.41:347][776]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.43:495][905]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-20.70 Y=-27.14 Z=0.00 Location: X=2044.41 Y=3187.81 Z=82.14 Normal: X=0.68 Y=0.73 Z=0.00 PenetrationDepth:0.017 Actor:smackableMedium5_6 Component:PhysicsBody BoneName:None (0 other events since notify)
+[2019.01.27-01.33.51:447][382]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.51:615][392]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.52:914][470]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.53:063][479]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.54:148][544]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.33.54:748][580]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.04:433][161]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.04:633][173]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.04:800][183]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.04:950][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.07:267][331]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.07:433][341]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.07:600][351]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.07:766][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.07:934][371]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.08:117][382]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.08:300][393]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.08:483][404]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.08:684][416]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.09:600][471]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.09:767][481]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.09:952][492]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.10:737][538]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.10:886][547]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.11:036][556]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.11:202][566]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.12:203][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.12:353][635]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.12:505][644]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.12:669][654]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.14:354][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.14:503][764]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.14:637][772]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.14:754][779]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.16:453][881]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.16:753][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.17:254][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.17:402][938]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.17:536][946]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.18:036][976]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.18:188][985]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.18:337][994]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.18:488][  3]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.18:604][ 10]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.19:288][ 51]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.19:438][ 60]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.21:837][204]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.21:987][213]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.22:138][222]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.22:304][232]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.22:487][243]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.22:671][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.22:838][264]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.22:971][272]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.23:754][319]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.23:904][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.24:054][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.24:870][386]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.25:038][396]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.25:187][405]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.25:374][416]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.25:537][426]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.25:721][437]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.25:888][447]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.26:037][456]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.26:655][493]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.26:889][507]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.27:104][520]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.27:288][531]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.27:471][542]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.28:555][607]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.28:721][617]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.28:887][627]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.29:055][637]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.30:288][711]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.30:438][720]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.30:639][732]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.31:588][789]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.31:938][810]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.32:205][826]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.32:406][838]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.32:621][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.32:771][860]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.35:438][ 20]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.35:607][ 30]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.35:772][ 40]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.36:402][ 76]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.36:551][ 85]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.36:719][ 95]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.36:868][104]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.37:018][113]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.37:169][122]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.37:303][130]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.37:753][157]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.37:969][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.38:185][183]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.38:437][198]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.38:702][214]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.39:087][237]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.39:502][262]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.39:853][283]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.40:187][303]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.40:468][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.40:686][333]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.40:869][344]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.41:086][357]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.41:270][368]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.41:453][379]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.41:619][389]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.41:920][407]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.42:053][415]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.42:171][422]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.42:303][430]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.42:436][438]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.42:570][446]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.42:703][454]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.42:852][463]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.42:987][471]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.43:437][498]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.43:571][506]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.43:755][517]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.43:888][525]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.44:020][533]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.44:137][540]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.44:970][590]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.45:103][598]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.45:238][606]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.45:904][646]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.46:036][654]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.46:187][663]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.46:337][672]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.46:471][680]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.47:353][733]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.47:504][742]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.47:670][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.47:820][761]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.48:005][772]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.48:186][783]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.48:370][794]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.48:536][804]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.53:388][ 95]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.53:537][104]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.53:721][115]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.53:887][125]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.34.57:938][368]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=34.14 Y=0.25 Z=0.00 Location: X=1977.26 Y=3047.68 Z=32.20 Normal: X=-0.50 Y=0.87 Z=0.00 PenetrationDepth:0.327 Actor:smackableMedium6_9 Component:PhysicsBody BoneName:None (0 other events since notify)
+[2019.01.27-01.35.02:990][671]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.03:123][679]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.03:274][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.05:174][802]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.05:324][811]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.05:441][818]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.07:440][938]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.07:624][949]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.07:790][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.10:625][129]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.10:775][138]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.10:891][145]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.11:024][153]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.11:158][161]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.11:291][169]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.11:425][177]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.11:575][186]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.11:709][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.12:308][230]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.12:458][239]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.12:592][247]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.12:742][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.12:859][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.13:009][272]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.13:210][284]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.13:392][295]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.13:543][304]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.18:275][588]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-17.01 Y=39.54 Z=0.00 Location: X=2125.12 Y=2951.47 Z=30.37 Normal: X=0.36 Y=-0.24 Z=-0.90 PenetrationDepth:3.373 Actor:smackableMedium3_2 Component:PhysicsBody BoneName:None (11 other events since notify)
+[2019.01.27-01.35.18:426][597]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.46:612][286]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.46:813][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.47:096][315]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.47:229][323]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.35.47:380][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.08:399][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.08:515][600]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.08:648][608]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.08:782][616]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.35:353][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.35:504][219]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.36:470][277]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.36:753][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.36:904][303]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.37:070][313]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.37:253][324]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.37:470][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.37:687][350]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.37:887][362]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.38:488][398]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.38:801][415]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.38:951][424]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.39:101][433]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.39:218][440]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.39:368][449]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.39:501][457]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.39:618][464]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.40:485][516]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.40:751][532]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.40:885][540]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.41:018][548]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.41:151][556]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.41:284][564]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.41:435][573]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.41:585][582]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.41:718][590]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.41:868][599]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.42:002][607]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.42:135][615]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.42:251][622]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.43:319][686]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.49:203][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.49:404][ 51]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.50:886][140]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.36.51:103][153]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.02:715][849]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.03:314][885]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.04:098][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.04:382][949]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.04:531][958]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.04:815][975]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.04:999][986]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.05:165][996]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.05:316][  5]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.05:466][ 14]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.05:616][ 23]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.05:848][ 37]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.06:016][ 47]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.06:199][ 58]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.06:365][ 68]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.06:498][ 76]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.06:649][ 85]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.06:799][ 94]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.06:966][104]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.07:165][116]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.07:332][126]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.07:517][137]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.07:916][161]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.08:249][181]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.08:382][189]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.08:533][198]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.10:565][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.10:733][330]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.10:982][345]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.11:266][362]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.11:433][372]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.11:633][384]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.11:799][394]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.12:116][413]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.12:266][422]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.25:452][213]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.25:602][222]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.25:735][230]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.25:868][238]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.26:019][247]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.26:202][258]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.26:352][267]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.26:535][278]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.26:703][288]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.26:869][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.27:018][307]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.27:185][317]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.27:352][327]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.27:536][338]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.27:703][348]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.27:852][357]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.28:786][413]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.28:902][420]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.29:035][428]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.29:169][436]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.29:285][443]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.29:419][451]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.29:569][460]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.29:702][468]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.29:835][476]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.29:969][484]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.30:069][490]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.30:202][498]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.30:302][504]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.30:436][512]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.30:570][520]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.30:671][526]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.30:803][534]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.30:919][541]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.31:819][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.31:953][603]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.32:086][611]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.32:203][618]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.32:370][628]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.44:836][374]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.45:386][407]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.37.46:103][450]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.01:029][345]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.01:279][360]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.01:612][380]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.01:813][392]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.01:995][403]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.02:196][415]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.02:462][431]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.02:780][450]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.06:947][700]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.07:114][710]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.07:247][718]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.07:397][727]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.23:083][668]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.23:216][676]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.23:382][686]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.24:116][730]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.24:233][737]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.24:366][745]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.24:532][755]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.24:716][766]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.38.25:133][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-01.39.28:607][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-01.39.28:607][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-01.39.28:644][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-01.39.28:644][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-01.39.28:680][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-01.39.28:738][598]LogPlayLevel: Display: Destroying online subsystem :Context_281
+[2019.01.27-01.39.31:825][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-01.39.33:854][792]LogSlate: Window 'Save Content' being destroyed
+[2019.01.27-01.39.34:054][792]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/ThirdPersonCharacter7F80202F4A1E445D203040A958005BB5.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.27-01.39.34:597][792]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/House0A7BDDDC4164D1106889B0BE171E1D97.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House.umap'
+[2019.01.27-01.39.34:639][792]LogFileHelpers: Saving map 'House' took 0.566
+[2019.01.27-01.39.34:787][792]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/House_BuiltDataC03D68AB4C6A3508030AD18D4DE7AE67.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House_BuiltData.uasset'
