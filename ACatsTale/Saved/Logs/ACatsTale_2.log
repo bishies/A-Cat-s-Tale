@@ -14341,3 +14341,783 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.27-01.39.34:597][792]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/House0A7BDDDC4164D1106889B0BE171E1D97.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House.umap'
 [2019.01.27-01.39.34:639][792]LogFileHelpers: Saving map 'House' took 0.566
 [2019.01.27-01.39.34:787][792]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/House_BuiltDataC03D68AB4C6A3508030AD18D4DE7AE67.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House_BuiltData.uasset'
+[2019.01.27-01.54.33:296][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-01.55.36:955][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-01.58.42:671][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Materials/NearCameraFade" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Materials/NearCameraFade.uasset" SILENT=true
+[2019.01.27-01.58.42:691][562]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/NearCameraFade3AA448CB4A35A10997AF6D806B1DACDD.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Materials/NearCameraFade.uasset'
+[2019.01.27-01.58.58:271][723]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Chris/Downloads/assets/Bolt Texture.jpg)
+[2019.01.27-01.58.58:375][723]LogTexture: Display: Building textures: Bolt_Texture (AutoDXT, 2048X2048)
+[2019.01.27-01.58.58:803][723]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/Downloads/assets/bolt.fbx)
+[2019.01.27-01.58.59:011][723]LogFbx: Loading FBX Scene from C:/Users/Chris/Downloads/assets/bolt.fbx
+[2019.01.27-01.58.59:031][723]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-01.59.05:327][723]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.27-01.59.27:369][723]LogTexture: Display: Building textures: Bolt_Texture (AutoDXT, 2048X2048)
+[2019.01.27-01.59.27:683][723]LogMaterial: Display: Missing cached shader map for material Bolt1, compiling. 
+[2019.01.27-01.59.27:715][723]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-01.59.27:715][723]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-01.59.27:715][723]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-01.59.27:715][723]LogFbx: Warning: Triangulating static mesh pCylinder3
+[2019.01.27-01.59.27:934][723]LogStaticMesh: Building static mesh bolt...
+[2019.01.27-01.59.28:385][723]LogStaticMesh: Built static mesh [0.46s] /Game/assets/bolt.bolt
+[2019.01.27-01.59.28:488][723]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.27-01.59.28:555][723]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/Downloads/assets/chair2.fbx)
+[2019.01.27-01.59.28:573][723]LogFbx: Loading FBX Scene from C:/Users/Chris/Downloads/assets/chair2.fbx
+[2019.01.27-01.59.28:605][723]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-01.59.28:619][723]LogMaterial: Display: Missing cached shader map for material black_wheels, compiling. 
+[2019.01.27-01.59.28:637][723]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-01.59.28:637][723]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-01.59.28:641][723]LogFbx: Warning: Triangulating static mesh polySurface22
+[2019.01.27-01.59.28:659][723]LogStaticMesh: Building static mesh chair2_polySurface22...
+[2019.01.27-01.59.28:662][723]LogStaticMesh: Built static mesh [0.00s] /Game/assets/chair2_polySurface22.chair2_polySurface22
+[2019.01.27-01.59.28:672][723]LogFbx: Warning: Triangulating static mesh polySurface24
+[2019.01.27-01.59.28:675][723]LogStaticMesh: Building static mesh chair2_polySurface24...
+[2019.01.27-01.59.28:679][723]LogStaticMesh: Built static mesh [0.00s] /Game/assets/chair2_polySurface24.chair2_polySurface24
+[2019.01.27-01.59.28:689][723]LogFbx: Warning: Triangulating static mesh polySurface19
+[2019.01.27-01.59.28:692][723]LogStaticMesh: Building static mesh chair2_polySurface19...
+[2019.01.27-01.59.28:696][723]LogStaticMesh: Built static mesh [0.00s] /Game/assets/chair2_polySurface19.chair2_polySurface19
+[2019.01.27-01.59.28:706][723]LogFbx: Warning: Triangulating static mesh polySurface21
+[2019.01.27-01.59.28:710][723]LogStaticMesh: Building static mesh chair2_polySurface21...
+[2019.01.27-01.59.28:713][723]LogStaticMesh: Built static mesh [0.00s] /Game/assets/chair2_polySurface21.chair2_polySurface21
+[2019.01.27-01.59.28:737][723]LogMaterial: Display: Missing cached shader map for material metalchair, compiling. 
+[2019.01.27-01.59.28:775][723]LogFbx: Warning: Triangulating static mesh polySurface23
+[2019.01.27-01.59.28:791][723]LogStaticMesh: Building static mesh chair2_polySurface23...
+[2019.01.27-01.59.28:796][723]LogStaticMesh: Built static mesh [0.01s] /Game/assets/chair2_polySurface23.chair2_polySurface23
+[2019.01.27-01.59.28:814][723]LogLinker: Can't find file '/Game/assets/greyfabric'
+[2019.01.27-01.59.28:814][723]LogLinker: Can't find file '/Game/assets/greyfabric'
+[2019.01.27-01.59.28:814][723]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/cinna/Desktop/maya/greyfabric.jpg
+[2019.01.27-01.59.28:819][723]LogMaterial: Display: Missing cached shader map for material chairfabric, compiling. 
+[2019.01.27-01.59.28:843][723]LogFbx: Warning: Triangulating static mesh polySurface34
+[2019.01.27-01.59.28:857][723]LogStaticMesh: Building static mesh chair2_polySurface34...
+[2019.01.27-01.59.28:869][723]LogStaticMesh: Built static mesh [0.01s] /Game/assets/chair2_polySurface34.chair2_polySurface34
+[2019.01.27-01.59.28:881][723]LogFbx: Warning: Triangulating static mesh polySurface36
+[2019.01.27-01.59.28:887][723]LogStaticMesh: Building static mesh chair2_polySurface36...
+[2019.01.27-01.59.28:893][723]LogStaticMesh: Built static mesh [0.01s] /Game/assets/chair2_polySurface36.chair2_polySurface36
+[2019.01.27-01.59.28:904][723]LogFbx: Warning: Triangulating static mesh polySurface38
+[2019.01.27-01.59.28:906][723]LogStaticMesh: Building static mesh chair2_polySurface38...
+[2019.01.27-01.59.28:909][723]LogStaticMesh: Built static mesh [0.00s] /Game/assets/chair2_polySurface38.chair2_polySurface38
+[2019.01.27-01.59.28:938][723]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.27-01.59.28:949][723]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Chris/Downloads/assets/closed box Texture.jpg)
+[2019.01.27-01.59.28:997][723]LogTexture: Display: Building textures: closed_box_Texture (AutoDXT, 2048X2048)
+[2019.01.27-01.59.29:318][723]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/Downloads/assets/Closed Box.fbx)
+[2019.01.27-01.59.29:334][723]LogFbx: Loading FBX Scene from C:/Users/Chris/Downloads/assets/Closed Box.fbx
+[2019.01.27-01.59.29:343][723]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-01.59.29:397][723]LogTexture: Display: Building textures: closed_box_Texture (AutoDXT, 2048X2048)
+[2019.01.27-01.59.29:689][723]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.01.27-01.59.29:715][723]LogFbx: Warning: Triangulating static mesh pCube1
+[2019.01.27-01.59.29:725][723]LogStaticMesh: Building static mesh Closed_Box_pCube1...
+[2019.01.27-01.59.29:727][723]LogStaticMesh: Built static mesh [0.00s] /Game/assets/Closed_Box_pCube1.Closed_Box_pCube1
+[2019.01.27-01.59.29:745][723]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.27-01.59.29:761][723]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/Downloads/assets/desk.fbx)
+[2019.01.27-01.59.29:778][723]LogFbx: Loading FBX Scene from C:/Users/Chris/Downloads/assets/desk.fbx
+[2019.01.27-01.59.29:798][723]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-01.59.29:806][723]LogLinker: Can't find file '/Game/assets/outUV_deskshelf'
+[2019.01.27-01.59.29:806][723]LogLinker: Can't find file '/Game/assets/outUV_deskshelf'
+[2019.01.27-01.59.29:806][723]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/cinna/Documents/maya/projects/default/images/outUV_deskshelf.png
+[2019.01.27-01.59.29:811][723]LogMaterial: Display: Missing cached shader map for material blinn3, compiling. 
+[2019.01.27-01.59.29:835][723]LogFbx: Warning: Triangulating static mesh polySurface33
+[2019.01.27-01.59.29:844][723]LogStaticMesh: Building static mesh desk_polySurface33...
+[2019.01.27-01.59.29:845][723]LogStaticMesh: Built static mesh [0.00s] /Game/assets/desk_polySurface33.desk_polySurface33
+[2019.01.27-01.59.29:887][723]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/assets/' is not a standard unreal filename or a long path name. Reason: Path may not end with a '/'
+[2019.01.27-01.59.29:887][723]LogLinker: Can't find file '/Game/assets/'
+[2019.01.27-01.59.29:887][723]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/assets/' is not a standard unreal filename or a long path name. Reason: Path may not end with a '/'
+[2019.01.27-01.59.29:887][723]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/assets/' is not a standard unreal filename or a long path name. Reason: Path may not end with a '/'
+[2019.01.27-01.59.29:888][723]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/assets/' is not a standard unreal filename or a long path name. Reason: Path may not end with a '/'
+[2019.01.27-01.59.29:888][723]LogLinker: Can't find file '/Game/assets/'
+[2019.01.27-01.59.29:888][723]LogFbxMaterialImport: Warning: Unable to find Texture file 
+[2019.01.27-01.59.29:893][723]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2019.01.27-01.59.29:918][723]LogFbx: Warning: Triangulating static mesh polySurface28
+[2019.01.27-01.59.29:930][723]LogStaticMesh: Building static mesh desk_polySurface28...
+[2019.01.27-01.59.29:936][723]LogStaticMesh: Built static mesh [0.01s] /Game/assets/desk_polySurface28.desk_polySurface28
+[2019.01.27-01.59.29:952][723]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.27-01.59.29:961][723]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Chris/Downloads/assets/Dresser legs texture.jpg)
+[2019.01.27-01.59.30:005][723]LogTexture: Display: Building textures: Dresser_legs_texture (AutoDXT, 2048X2048)
+[2019.01.27-01.59.30:237][723]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Chris/Downloads/assets/Dresser normal map.jpg)
+[2019.01.27-01.59.30:304][723]LogTexture: Display: Building textures: Dresser_normal_map (BC5, 2048X2048)
+[2019.01.27-01.59.30:634][723]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Chris/Downloads/assets/Dresser texture.jpg)
+[2019.01.27-01.59.30:675][723]LogTexture: Display: Building textures: Dresser_texture (AutoDXT, 2048X2048)
+[2019.01.27-01.59.30:944][723]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/Downloads/assets/dresser.fbx)
+[2019.01.27-01.59.30:964][723]LogFbx: Loading FBX Scene from C:/Users/Chris/Downloads/assets/dresser.fbx
+[2019.01.27-01.59.30:976][723]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-01.59.31:026][723]LogTexture: Display: Building textures: Dresser_legs_texture (AutoDXT, 2048X2048)
+[2019.01.27-01.59.31:229][723]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.01.27-01.59.31:239][723]LogMaterial: Display: Missing cached shader map for material Dresser_legs, compiling. 
+[2019.01.27-01.59.31:265][723]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2019.01.27-01.59.31:274][723]LogStaticMesh: Building static mesh dresser_pCylinder1...
+[2019.01.27-01.59.31:278][723]LogStaticMesh: Built static mesh [0.00s] /Game/assets/dresser_pCylinder1.dresser_pCylinder1
+[2019.01.27-01.59.31:289][723]LogFbx: Warning: Triangulating static mesh pCylinder2
+[2019.01.27-01.59.31:300][723]LogStaticMesh: Building static mesh dresser_pCylinder2...
+[2019.01.27-01.59.31:304][723]LogStaticMesh: Built static mesh [0.00s] /Game/assets/dresser_pCylinder2.dresser_pCylinder2
+[2019.01.27-01.59.31:315][723]LogFbx: Warning: Triangulating static mesh pCylinder3
+[2019.01.27-01.59.31:324][723]LogStaticMesh: Building static mesh dresser_pCylinder3...
+[2019.01.27-01.59.31:328][723]LogStaticMesh: Built static mesh [0.00s] /Game/assets/dresser_pCylinder3.dresser_pCylinder3
+[2019.01.27-01.59.31:340][723]LogFbx: Warning: Triangulating static mesh pCylinder4
+[2019.01.27-01.59.31:348][723]LogStaticMesh: Building static mesh dresser_pCylinder4...
+[2019.01.27-01.59.31:352][723]LogStaticMesh: Built static mesh [0.00s] /Game/assets/dresser_pCylinder4.dresser_pCylinder4
+[2019.01.27-01.59.31:366][723]LogFbx: Warning: Triangulating static mesh pCube1
+[2019.01.27-01.59.31:369][723]LogStaticMesh: Building static mesh dresser_pCube1...
+[2019.01.27-01.59.31:372][723]LogStaticMesh: Built static mesh [0.00s] /Game/assets/dresser_pCube1.dresser_pCube1
+[2019.01.27-01.59.31:392][723]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.27-01.59.31:404][723]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/Downloads/assets/Extra gate.fbx)
+[2019.01.27-01.59.31:421][723]LogFbx: Loading FBX Scene from C:/Users/Chris/Downloads/assets/Extra gate.fbx
+[2019.01.27-01.59.31:430][723]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-01.59.31:436][723]LogLinker: Can't find file '/Game/assets/gate_Texture'
+[2019.01.27-01.59.31:436][723]LogLinker: Can't find file '/Game/assets/gate_Texture'
+[2019.01.27-01.59.31:437][723]LogFbxMaterialImport: Warning: Unable to find Texture file D:/Docs/Maya/gate Texture.jpg
+[2019.01.27-01.59.31:440][723]LogMaterial: Display: Missing cached shader map for material Gate, compiling. 
+[2019.01.27-01.59.31:464][723]LogFbx: Warning: Triangulating static mesh pCube1
+[2019.01.27-01.59.31:490][723]LogStaticMesh: Building static mesh Extra_gate_pCube1...
+[2019.01.27-01.59.31:497][723]LogStaticMesh: Built static mesh [0.01s] /Game/assets/Extra_gate_pCube1.Extra_gate_pCube1
+[2019.01.27-01.59.31:513][723]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.27-01.59.31:525][723]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/Downloads/assets/Gate w bolt.fbx)
+[2019.01.27-01.59.31:543][723]LogFbx: Loading FBX Scene from C:/Users/Chris/Downloads/assets/Gate w bolt.fbx
+[2019.01.27-01.59.31:557][723]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-01.59.31:635][723]LogTexture: Display: Building textures: Bolt_Texture (AutoDXT, 2048X2048)
+[2019.01.27-01.59.31:927][723]LogMaterial: Display: Missing cached shader map for material Bolt2, compiling. 
+[2019.01.27-01.59.31:955][723]LogFbx: Warning: Triangulating static mesh pCylinder3
+[2019.01.27-01.59.31:996][723]LogStaticMesh: Building static mesh Gate_w_bolt_pCylinder3...
+[2019.01.27-01.59.32:010][723]LogStaticMesh: Built static mesh [0.01s] /Game/assets/Gate_w_bolt_pCylinder3.Gate_w_bolt_pCylinder3
+[2019.01.27-01.59.32:054][723]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.01.27-01.59.32:054][723]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.27-01.59.32:846][723]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.01.27-01.59.33:338][723]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.01.27-01.59.33:630][723]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.01.27-01.59.35:050][723]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.01.27-01.59.35:288][723]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.01.27-01.59.36:045][723]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.01.27-01.59.36:117][723]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.01.27-01.59.37:580][723]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.01.27-01.59.38:046][723]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.01.27-01.59.38:100][723]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.01.27-01.59.39:159][723]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.01.27-01.59.39:470][723]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.27-01.59.39:813][723]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.27-01.59.40:389][723]LogSlate: Window 'Message' being destroyed
+[2019.01.27-01.59.40:402][723]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Chris/Downloads/assets/open box Texture.jpg)
+[2019.01.27-01.59.40:460][723]LogTexture: Display: Building textures: open_box_Texture (AutoDXT, 2048X2048)
+[2019.01.27-01.59.40:758][723]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/Downloads/assets/Open Box.fbx)
+[2019.01.27-01.59.40:775][723]LogFbx: Loading FBX Scene from C:/Users/Chris/Downloads/assets/Open Box.fbx
+[2019.01.27-01.59.40:793][723]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-01.59.40:816][723]LogFbx: Warning: Triangulating static mesh polySurface5
+[2019.01.27-01.59.40:827][723]LogStaticMesh: Building static mesh Open_Box_polySurface5...
+[2019.01.27-01.59.40:839][723]LogStaticMesh: Built static mesh [0.01s] /Game/assets/Open_Box_polySurface5.Open_Box_polySurface5
+[2019.01.27-01.59.40:857][723]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.27-01.59.40:857][723]FBXImport: Error: There is no geometry information in mesh '' 
+[2019.01.27-01.59.41:881][755]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.27-01.59.42:262][778]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.27-01.59.43:332][839]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.27-01.59.44:650][918]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-01.59.44:661][918]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-01.59.59:579][727]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/assets/dresser_pCube1.dresser_pCube1
+[2019.01.27-02.00.10:363][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-02.02.51:673][822]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/House' took 0.038
+[2019.01.27-02.02.51:677][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Bolt_Texture] ([1] browsable assets)...
+[2019.01.27-02.02.51:689][822]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/Bolt_Texture.Bolt_Texture]
+[2019.01.27-02.02.51:689][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Bolt_Texture]
+[2019.01.27-02.02.51:714][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Bolt_Texture_Auto89DC45E534F6BBFE808749CADAE517239.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Bolt_Texture_Auto8.uasset'
+[2019.01.27-02.02.51:716][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/bolt] ([1] browsable assets)...
+[2019.01.27-02.02.51:742][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/bolt.bolt]
+[2019.01.27-02.02.51:742][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/bolt]
+[2019.01.27-02.02.51:742][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/bolt" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/bolt_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2019.01.27-02.02.51:762][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/bolt_Auto865A32D2849A3B8959028239BCA0D4E61.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/bolt_Auto8.uasset'
+[2019.01.27-02.02.51:764][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Bolt1] ([1] browsable assets)...
+[2019.01.27-02.02.51:787][822]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/Bolt1.Bolt1]
+[2019.01.27-02.02.51:787][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Bolt1]
+[2019.01.27-02.02.51:787][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Bolt1" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Bolt1_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2019.01.27-02.02.51:808][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Bolt1_Auto82577472F4F101A72F4255BA008580B7F.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Bolt1_Auto8.uasset'
+[2019.01.27-02.02.51:810][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/chair2_polySurface22] ([1] browsable assets)...
+[2019.01.27-02.02.51:831][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/chair2_polySurface22.chair2_polySurface22]
+[2019.01.27-02.02.51:831][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chair2_polySurface22]
+[2019.01.27-02.02.51:851][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/chair2_polySurface22_Auto8E6676EC8430D7B69453316BDC402B936.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/chair2_polySurface22_Auto8.uasset'
+[2019.01.27-02.02.51:853][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/black_wheels] ([1] browsable assets)...
+[2019.01.27-02.02.51:874][822]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/black_wheels.black_wheels]
+[2019.01.27-02.02.51:874][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/black_wheels]
+[2019.01.27-02.02.51:899][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/black_wheels_Auto8C3A2CEB64F4077A35DEFF7B212F508ED.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/black_wheels_Auto8.uasset'
+[2019.01.27-02.02.51:901][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/chair2_polySurface24] ([1] browsable assets)...
+[2019.01.27-02.02.51:920][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/chair2_polySurface24.chair2_polySurface24]
+[2019.01.27-02.02.51:920][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chair2_polySurface24]
+[2019.01.27-02.02.51:941][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/chair2_polySurface24_Auto8C1EFF1054B427FE93ADF93B59B83F753.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/chair2_polySurface24_Auto8.uasset'
+[2019.01.27-02.02.51:942][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/chair2_polySurface19] ([1] browsable assets)...
+[2019.01.27-02.02.51:962][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/chair2_polySurface19.chair2_polySurface19]
+[2019.01.27-02.02.51:962][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chair2_polySurface19]
+[2019.01.27-02.02.51:982][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/chair2_polySurface19_Auto80EE12B814B96CA82D372C28CF21DAAE0.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/chair2_polySurface19_Auto8.uasset'
+[2019.01.27-02.02.51:984][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/chair2_polySurface21] ([1] browsable assets)...
+[2019.01.27-02.02.52:008][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/chair2_polySurface21.chair2_polySurface21]
+[2019.01.27-02.02.52:008][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chair2_polySurface21]
+[2019.01.27-02.02.52:029][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/chair2_polySurface21_Auto8318B5A2D4B0DE62AD6A1D8ACC444B7A2.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/chair2_polySurface21_Auto8.uasset'
+[2019.01.27-02.02.52:031][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/chair2_polySurface23] ([1] browsable assets)...
+[2019.01.27-02.02.52:051][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/chair2_polySurface23.chair2_polySurface23]
+[2019.01.27-02.02.52:051][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chair2_polySurface23]
+[2019.01.27-02.02.52:072][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/chair2_polySurface23_Auto88F47E79C4A5C8D86E8E24188BD6911CA.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/chair2_polySurface23_Auto8.uasset'
+[2019.01.27-02.02.52:076][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/metalchair] ([1] browsable assets)...
+[2019.01.27-02.02.52:099][822]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/metalchair.metalchair]
+[2019.01.27-02.02.52:099][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/metalchair]
+[2019.01.27-02.02.52:119][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/metalchair_Auto8EE19827F4DF9DF0F06F16FBF737D199C.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/metalchair_Auto8.uasset'
+[2019.01.27-02.02.52:121][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/chair2_polySurface34] ([1] browsable assets)...
+[2019.01.27-02.02.52:141][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/chair2_polySurface34.chair2_polySurface34]
+[2019.01.27-02.02.52:141][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chair2_polySurface34]
+[2019.01.27-02.02.52:161][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/chair2_polySurface34_Auto83D190AE148A38C0DEF072A9EE8DB21B2.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/chair2_polySurface34_Auto8.uasset'
+[2019.01.27-02.02.52:162][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/chairfabric] ([1] browsable assets)...
+[2019.01.27-02.02.52:183][822]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/chairfabric.chairfabric]
+[2019.01.27-02.02.52:183][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chairfabric]
+[2019.01.27-02.02.52:203][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/chairfabric_Auto81452925347C5B623B069C08C722B16D5.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/chairfabric_Auto8.uasset'
+[2019.01.27-02.02.52:205][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/chair2_polySurface36] ([1] browsable assets)...
+[2019.01.27-02.02.52:226][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/chair2_polySurface36.chair2_polySurface36]
+[2019.01.27-02.02.52:226][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chair2_polySurface36]
+[2019.01.27-02.02.52:246][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/chair2_polySurface36_Auto8BCAE45C7482CAB84F061509AC846D2F2.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/chair2_polySurface36_Auto8.uasset'
+[2019.01.27-02.02.52:247][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/chair2_polySurface38] ([1] browsable assets)...
+[2019.01.27-02.02.52:267][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/chair2_polySurface38.chair2_polySurface38]
+[2019.01.27-02.02.52:267][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/chair2_polySurface38]
+[2019.01.27-02.02.52:289][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/chair2_polySurface38_Auto8B7C2188745FF2BDBF9F69CAF725C69D9.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/chair2_polySurface38_Auto8.uasset'
+[2019.01.27-02.02.52:291][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/closed_box_Texture] ([1] browsable assets)...
+[2019.01.27-02.02.52:301][822]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/closed_box_Texture.closed_box_Texture]
+[2019.01.27-02.02.52:301][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/closed_box_Texture]
+[2019.01.27-02.02.52:330][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/closed_box_Texture_Auto8861F3A8F4B8DA9E7F7A18587B93563EC.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/closed_box_Texture_Auto8.uasset'
+[2019.01.27-02.02.52:332][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Closed_Box_pCube1] ([1] browsable assets)...
+[2019.01.27-02.02.52:352][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/Closed_Box_pCube1.Closed_Box_pCube1]
+[2019.01.27-02.02.52:352][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Closed_Box_pCube1]
+[2019.01.27-02.02.52:376][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Closed_Box_pCube1_Auto818BCB4054E127009C1C7F2B9B02B36C3.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Closed_Box_pCube1_Auto8.uasset'
+[2019.01.27-02.02.52:377][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/lambert1] ([1] browsable assets)...
+[2019.01.27-02.02.52:398][822]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/lambert1.lambert1]
+[2019.01.27-02.02.52:398][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/lambert1]
+[2019.01.27-02.02.52:398][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/lambert1" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/lambert1_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2019.01.27-02.02.52:421][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/lambert1_Auto80F98BED047A861CE3C782198E7B0D877.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/lambert1_Auto8.uasset'
+[2019.01.27-02.02.52:423][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/desk_polySurface33] ([1] browsable assets)...
+[2019.01.27-02.02.52:442][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/desk_polySurface33.desk_polySurface33]
+[2019.01.27-02.02.52:442][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/desk_polySurface33]
+[2019.01.27-02.02.52:462][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/desk_polySurface33_Auto8D95B391C41482CB975D21FAA1497DB56.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/desk_polySurface33_Auto8.uasset'
+[2019.01.27-02.02.52:463][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/blinn3] ([1] browsable assets)...
+[2019.01.27-02.02.52:484][822]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/blinn3.blinn3]
+[2019.01.27-02.02.52:484][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn3]
+[2019.01.27-02.02.52:486][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn3" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/blinn3_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2019.01.27-02.02.52:506][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/blinn3_Auto8482638E341849C387910568D972FAF41.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/blinn3_Auto8.uasset'
+[2019.01.27-02.02.52:508][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/desk_polySurface28] ([1] browsable assets)...
+[2019.01.27-02.02.52:527][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/desk_polySurface28.desk_polySurface28]
+[2019.01.27-02.02.52:527][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/desk_polySurface28]
+[2019.01.27-02.02.52:549][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/desk_polySurface28_Auto8A7D9A4984A9274BF11D84485630DD4C4.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/desk_polySurface28_Auto8.uasset'
+[2019.01.27-02.02.52:550][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/blinn2] ([1] browsable assets)...
+[2019.01.27-02.02.52:571][822]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/blinn2.blinn2]
+[2019.01.27-02.02.52:572][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/blinn2]
+[2019.01.27-02.02.52:572][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/blinn2" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/blinn2_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2019.01.27-02.02.52:590][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/blinn2_Auto8C2C028C242359E144EA1D49CD2C02843.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/blinn2_Auto8.uasset'
+[2019.01.27-02.02.52:591][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Dresser_legs_texture] ([1] browsable assets)...
+[2019.01.27-02.02.52:604][822]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/Dresser_legs_texture.Dresser_legs_texture]
+[2019.01.27-02.02.52:604][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Dresser_legs_texture]
+[2019.01.27-02.02.52:625][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Dresser_legs_texture_Auto81B5371BB42F1BE6B3B129C9B0D425BC7.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Dresser_legs_texture_Auto8.uasset'
+[2019.01.27-02.02.52:627][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Dresser_normal_map] ([1] browsable assets)...
+[2019.01.27-02.02.52:638][822]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/Dresser_normal_map.Dresser_normal_map]
+[2019.01.27-02.02.52:638][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Dresser_normal_map]
+[2019.01.27-02.02.52:656][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Dresser_normal_map_Auto804BC03D54F86DCBF9CE4E19A4A5EFB1E.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Dresser_normal_map_Auto8.uasset'
+[2019.01.27-02.02.52:657][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Dresser_texture] ([1] browsable assets)...
+[2019.01.27-02.02.52:666][822]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/Dresser_texture.Dresser_texture]
+[2019.01.27-02.02.52:666][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Dresser_texture]
+[2019.01.27-02.02.52:687][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Dresser_texture_Auto8BA46B37647AD408F142BB6B2D2F2211D.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Dresser_texture_Auto8.uasset'
+[2019.01.27-02.02.52:689][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/dresser_pCylinder1] ([1] browsable assets)...
+[2019.01.27-02.02.52:710][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/dresser_pCylinder1.dresser_pCylinder1]
+[2019.01.27-02.02.52:710][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/dresser_pCylinder1]
+[2019.01.27-02.02.52:729][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/dresser_pCylinder1_Auto8240288464E34B78C0B2B7C98971C5DDB.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/dresser_pCylinder1_Auto8.uasset'
+[2019.01.27-02.02.52:731][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Dresser_legs] ([1] browsable assets)...
+[2019.01.27-02.02.52:755][822]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/Dresser_legs.Dresser_legs]
+[2019.01.27-02.02.52:755][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Dresser_legs]
+[2019.01.27-02.02.52:775][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Dresser_legs_Auto833B1EA7A4B30E31058D58AA89F0AE65D.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Dresser_legs_Auto8.uasset'
+[2019.01.27-02.02.52:777][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/dresser_pCylinder2] ([1] browsable assets)...
+[2019.01.27-02.02.52:796][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/dresser_pCylinder2.dresser_pCylinder2]
+[2019.01.27-02.02.52:796][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/dresser_pCylinder2]
+[2019.01.27-02.02.52:816][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/dresser_pCylinder2_Auto873B91B5640FC1BBE70F8D596682D0E2A.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/dresser_pCylinder2_Auto8.uasset'
+[2019.01.27-02.02.52:817][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/dresser_pCylinder3] ([1] browsable assets)...
+[2019.01.27-02.02.52:837][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/dresser_pCylinder3.dresser_pCylinder3]
+[2019.01.27-02.02.52:838][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/dresser_pCylinder3]
+[2019.01.27-02.02.52:858][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/dresser_pCylinder3_Auto86D63D3234CECEDE213E9FFB058BE8D78.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/dresser_pCylinder3_Auto8.uasset'
+[2019.01.27-02.02.52:860][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/dresser_pCylinder4] ([1] browsable assets)...
+[2019.01.27-02.02.52:880][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/dresser_pCylinder4.dresser_pCylinder4]
+[2019.01.27-02.02.52:880][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/dresser_pCylinder4]
+[2019.01.27-02.02.52:905][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/dresser_pCylinder4_Auto8972997554405752DE7B831A97A173DCA.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/dresser_pCylinder4_Auto8.uasset'
+[2019.01.27-02.02.52:906][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/dresser_pCube1] ([1] browsable assets)...
+[2019.01.27-02.02.52:925][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/dresser_pCube1.dresser_pCube1]
+[2019.01.27-02.02.52:925][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/dresser_pCube1]
+[2019.01.27-02.02.52:945][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/dresser_pCube1_Auto88BDF19114CF55CDBABA568A7AF3A9248.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/dresser_pCube1_Auto8.uasset'
+[2019.01.27-02.02.52:947][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Extra_gate_pCube1] ([1] browsable assets)...
+[2019.01.27-02.02.52:965][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/Extra_gate_pCube1.Extra_gate_pCube1]
+[2019.01.27-02.02.52:965][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Extra_gate_pCube1]
+[2019.01.27-02.02.52:983][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Extra_gate_pCube1_Auto865154AD94626F6C2D3DADD878F63F08A.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Extra_gate_pCube1_Auto8.uasset'
+[2019.01.27-02.02.52:985][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Gate] ([1] browsable assets)...
+[2019.01.27-02.02.53:004][822]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/Gate.Gate]
+[2019.01.27-02.02.53:004][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Gate]
+[2019.01.27-02.02.53:004][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Gate" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Gate_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2019.01.27-02.02.53:022][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Gate_Auto87F77D8E145739DD30457BA978B27DF7E.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Gate_Auto8.uasset'
+[2019.01.27-02.02.53:023][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Gate_w_bolt_pCylinder3] ([1] browsable assets)...
+[2019.01.27-02.02.53:042][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/Gate_w_bolt_pCylinder3.Gate_w_bolt_pCylinder3]
+[2019.01.27-02.02.53:042][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Gate_w_bolt_pCylinder3]
+[2019.01.27-02.02.53:060][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Gate_w_bolt_pCylinder3_Auto8F805AA9141D40BED3EF463898461BE0D.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Gate_w_bolt_pCylinder3_Auto8.uasset'
+[2019.01.27-02.02.53:061][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Bolt2] ([1] browsable assets)...
+[2019.01.27-02.02.53:081][822]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/Bolt2.Bolt2]
+[2019.01.27-02.02.53:081][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Bolt2]
+[2019.01.27-02.02.53:081][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Bolt2" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Bolt2_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2019.01.27-02.02.53:102][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Bolt2_Auto8FD6B4B514494716E2B9F40B834F1D0B1.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Bolt2_Auto8.uasset'
+[2019.01.27-02.02.53:104][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/open_box_Texture] ([1] browsable assets)...
+[2019.01.27-02.02.53:112][822]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/open_box_Texture.open_box_Texture]
+[2019.01.27-02.02.53:112][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/open_box_Texture]
+[2019.01.27-02.02.53:134][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/open_box_Texture_Auto8A51A676A4EE605F7A12DC99841BA0F8D.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/open_box_Texture_Auto8.uasset'
+[2019.01.27-02.02.53:136][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/Open_Box_polySurface5] ([1] browsable assets)...
+[2019.01.27-02.02.53:155][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/assets/Open_Box_polySurface5.Open_Box_polySurface5]
+[2019.01.27-02.02.53:155][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/Open_Box_polySurface5]
+[2019.01.27-02.02.53:175][822]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Open_Box_polySurface5_Auto813FDB4304C0CAF35A99E129B80ABBD33.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Autosaves/Game/assets/Open_Box_polySurface5_Auto8.uasset'
+[2019.01.27-02.02.53:177][822]LogFileHelpers: Auto-saving content packages took 1.501
+[2019.01.27-02.04.16:829][113]LogMaterial: Display: Missing cached shader map for material Dresser_texture_Mat, compiling. 
+[2019.01.27-02.04.16:858][113]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-02.04.16:858][113]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-02.04.16:858][113]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-02.04.27:121][311]LogSlate: Window 'Message' being destroyed
+[2019.01.27-02.04.31:433][423]LogSlate: Window 'Message' being destroyed
+[2019.01.27-02.04.32:004][423]LogMaterial: Display: Missing cached shader map for material NearCameraFade, compiling. 
+[2019.01.27-02.04.32:124][423]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.01.27-02.04.32:124][423]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.01.27-02.04.32:124][423]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.01.27-02.04.32:124][423]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.01.27-02.04.32:160][423]LogMaterial: Display: Missing cached shader map for material NearCameraFade, compiling. 
+[2019.01.27-02.04.32:244][423]LogMaterial: Display: Missing cached shader map for material NearCameraFade, compiling. 
+[2019.01.27-02.04.32:323][423]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.01.27-02.04.32:323][423]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.01.27-02.04.32:370][423]LogShaderCompilers: Display: Shaders left to compile 167
+[2019.01.27-02.04.32:380][423]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy NearCameraFade, compiling. 
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 167
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 165
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 162
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 161
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 159
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 157
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 155
+[2019.01.27-02.04.40:458][423]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 153
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 152
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 151
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 149
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 147
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 145
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 143
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 142
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 141
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 139
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 137
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 135
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 131
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 129
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.01.27-02.04.40:459][423]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.01.27-02.04.40:460][423]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.01.27-02.04.40:464][423]TextureStreamingBuild: Display: Compiling optional shaders took 8.095 seconds.
+[2019.01.27-02.04.40:558][423]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.01.27-02.04.40:871][427]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.01.27-02.04.43:666][520]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.01.27-02.04.43:820][528]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.01.27-02.04.45:028][578]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.27-02.04.45:860][628]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.27-02.04.46:261][652]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.27-02.04.49:278][833]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.27-02.05.11:259][545]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.27-02.05.43:333][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Materials/NearCameraFade" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Materials/NearCameraFade.uasset" SILENT=true
+[2019.01.27-02.05.43:366][205]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/NearCameraFade29C4E66F44AD9ACB84E6348D4100A709.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Materials/NearCameraFade.uasset'
+[2019.01.27-02.05.49:390][493]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.27-02.06.04:222][781]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.27-02.06.27:846][116]LogLinker: Warning: Can't find file '/Game/assets/Materials/NearCameraFade'
+[2019.01.27-02.06.27:847][116]LogLinker: Warning: Can't find file '/Game/assets/Materials/NearCameraFade'
+[2019.01.27-02.06.27:847][116]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/assets/Materials/NearCameraFade.NearCameraFade'
+[2019.01.27-02.10.33:359][234]LogSlate: Window 'ACatsTale - Unreal Editor' being destroyed
+[2019.01.27-02.10.33:361][234]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.27-02.10.33:966][235]Cmd: QUIT_EDITOR
+[2019.01.27-02.10.34:762][235]LogExit: Preparing to exit.
+[2019.01.27-02.10.35:180][235]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.01.27-02.10.35:180][235]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.01.27-02.10.35:180][235]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.01.27-02.10.35:180][235]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.01.27-02.10.35:180][235]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.01.27-02.10.35:180][235]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.01.27-02.10.35:180][235]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.01.27-02.10.35:182][235]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.01.27-02.10.35:182][235]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.01.27-02.10.35:182][235]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.01.27-02.10.35:521][235]LogExit: Editor shut down
+[2019.01.27-02.10.35:549][235]LogExit: Transaction tracking system shut down
+[2019.01.27-02.10.36:346][235]LogExit: Object subsystem successfully closed.
+[2019.01.27-02.10.36:404][235]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.27-02.10.36:440][235]LogD3D11RHI: Shutdown
+[2019.01.27-02.10.36:440][235]LogD3D11RHI: CleanupD3DDevice
+[2019.01.27-02.10.36:627][235]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.27-02.10.36:639][235]LogModuleManager: Shutting down and abandoning module MeshBuilder (640)
+[2019.01.27-02.10.36:639][235]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (638)
+[2019.01.27-02.10.36:640][235]LogModuleManager: Shutting down and abandoning module NewLevelDialog (636)
+[2019.01.27-02.10.36:640][235]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (634)
+[2019.01.27-02.10.36:659][235]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (632)
+[2019.01.27-02.10.36:659][235]LogModuleManager: Shutting down and abandoning module BlueprintGraph (630)
+[2019.01.27-02.10.36:660][235]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2019.01.27-02.10.36:660][235]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2019.01.27-02.10.36:660][235]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.01.27-02.10.36:660][235]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.01.27-02.10.36:660][235]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.01.27-02.10.36:699][235]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.01.27-02.10.36:699][235]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.01.27-02.10.36:700][235]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.01.27-02.10.36:700][235]LogModuleManager: Shutting down and abandoning module StatsViewer (612)
+[2019.01.27-02.10.36:700][235]LogModuleManager: Shutting down and abandoning module FoliageEdit (610)
+[2019.01.27-02.10.36:700][235]LogModuleManager: Shutting down and abandoning module LandscapeEditor (608)
+[2019.01.27-02.10.36:700][235]LogModuleManager: Shutting down and abandoning module MeshPaintMode (606)
+[2019.01.27-02.10.36:701][235]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (604)
+[2019.01.27-02.10.36:701][235]LogModuleManager: Shutting down and abandoning module ActorPickerMode (602)
+[2019.01.27-02.10.36:701][235]LogModuleManager: Shutting down and abandoning module GeometryMode (600)
+[2019.01.27-02.10.36:701][235]LogModuleManager: Shutting down and abandoning module TextureAlignMode (598)
+[2019.01.27-02.10.36:701][235]LogModuleManager: Shutting down and abandoning module BspMode (596)
+[2019.01.27-02.10.36:701][235]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (594)
+[2019.01.27-02.10.36:701][235]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (592)
+[2019.01.27-02.10.36:701][235]LogModuleManager: Shutting down and abandoning module AutomationWorker (590)
+[2019.01.27-02.10.36:701][235]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (588)
+[2019.01.27-02.10.36:701][235]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (586)
+[2019.01.27-02.10.36:701][235]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (584)
+[2019.01.27-02.10.36:701][235]LogModuleManager: Shutting down and abandoning module PlacementMode (583)
+[2019.01.27-02.10.36:702][235]LogModuleManager: Shutting down and abandoning module MaterialEditor (582)
+[2019.01.27-02.10.36:702][235]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (578)
+[2019.01.27-02.10.36:702][235]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (576)
+[2019.01.27-02.10.36:702][235]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (574)
+[2019.01.27-02.10.36:702][235]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (572)
+[2019.01.27-02.10.36:702][235]LogModuleManager: Shutting down and abandoning module WebMMedia (570)
+[2019.01.27-02.10.36:702][235]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (568)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (566)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module SequenceRecorder (565)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (562)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (560)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (558)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (556)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (554)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (552)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (550)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (548)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (546)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (544)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module CharacterAI (542)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module SmartSnapping (540)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module SessionServices (538)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module ViewportSnapping (536)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module ViewportInteraction (534)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module ClothPainter (532)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (531)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module LogVisualizer (528)
+[2019.01.27-02.10.36:703][235]LogModuleManager: Shutting down and abandoning module IntroTutorials (526)
+[2019.01.27-02.10.36:704][235]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (525)
+[2019.01.27-02.10.36:704][235]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (522)
+[2019.01.27-02.10.36:704][235]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (520)
+[2019.01.27-02.10.36:704][235]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (518)
+[2019.01.27-02.10.36:704][235]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (516)
+[2019.01.27-02.10.36:704][235]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (515)
+[2019.01.27-02.10.37:829][235]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (512)
+[2019.01.27-02.10.37:830][235]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (510)
+[2019.01.27-02.10.37:830][235]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (508)
+[2019.01.27-02.10.37:830][235]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (506)
+[2019.01.27-02.10.37:830][235]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (504)
+[2019.01.27-02.10.37:830][235]LogModuleManager: Shutting down and abandoning module InputBindingEditor (502)
+[2019.01.27-02.10.37:830][235]LogModuleManager: Shutting down and abandoning module MergeActors (500)
+[2019.01.27-02.10.37:830][235]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (498)
+[2019.01.27-02.10.37:830][235]LogModuleManager: Shutting down and abandoning module LocalizationService (497)
+[2019.01.27-02.10.37:842][235]LogModuleManager: Shutting down and abandoning module HardwareTargeting (494)
+[2019.01.27-02.10.37:842][235]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (492)
+[2019.01.27-02.10.37:842][235]LogModuleManager: Shutting down and abandoning module UndoHistory (490)
+[2019.01.27-02.10.37:842][235]LogModuleManager: Shutting down and abandoning module XmlParser (488)
+[2019.01.27-02.10.37:842][235]LogModuleManager: Shutting down and abandoning module Blutility (486)
+[2019.01.27-02.10.37:842][235]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (484)
+[2019.01.27-02.10.37:843][235]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (483)
+[2019.01.27-02.10.37:843][235]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (480)
+[2019.01.27-02.10.37:843][235]LogModuleManager: Shutting down and abandoning module SettingsEditor (478)
+[2019.01.27-02.10.37:843][235]LogModuleManager: Shutting down and abandoning module ProjectLauncher (476)
+[2019.01.27-02.10.37:843][235]LogModuleManager: Shutting down and abandoning module SessionFrontend (474)
+[2019.01.27-02.10.37:843][235]LogModuleManager: Shutting down and abandoning module ProfilerClient (472)
+[2019.01.27-02.10.37:843][235]LogModuleManager: Shutting down and abandoning module DeviceManager (470)
+[2019.01.27-02.10.37:843][235]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (469)
+[2019.01.27-02.10.37:908][235]LogModuleManager: Shutting down and abandoning module AutomationController (466)
+[2019.01.27-02.10.37:908][235]LogModuleManager: Shutting down and abandoning module AutomationWindow (464)
+[2019.01.27-02.10.37:908][235]LogModuleManager: Shutting down and abandoning module Layers (462)
+[2019.01.27-02.10.37:908][235]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (460)
+[2019.01.27-02.10.37:908][235]LogModuleManager: Shutting down and abandoning module DetailCustomizations (458)
+[2019.01.27-02.10.37:908][235]LogModuleManager: Shutting down and abandoning module PackagesDialog (456)
+[2019.01.27-02.10.37:908][235]LogModuleManager: Shutting down and abandoning module Persona (454)
+[2019.01.27-02.10.37:909][235]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (453)
+[2019.01.27-02.10.37:909][235]LogModuleManager: Shutting down and abandoning module AnimGraph (451)
+[2019.01.27-02.10.37:909][235]LogModuleManager: Shutting down and abandoning module Kismet (448)
+[2019.01.27-02.10.37:978][235]LogModuleManager: Shutting down and abandoning module GraphEditor (446)
+[2019.01.27-02.10.37:978][235]LogModuleManager: Shutting down and abandoning module ClassViewer (444)
+[2019.01.27-02.10.37:981][235]LogModuleManager: Shutting down and abandoning module Toolbox (442)
+[2019.01.27-02.10.37:982][235]LogModuleManager: Shutting down and abandoning module DesktopPlatform (441)
+[2019.01.27-02.10.37:982][235]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.01.27-02.10.37:982][235]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.01.27-02.10.37:982][235]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.01.27-02.10.37:982][235]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.01.27-02.10.37:982][235]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.01.27-02.10.37:985][235]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.01.27-02.10.37:985][235]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.01.27-02.10.37:985][235]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.01.27-02.10.37:985][235]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.01.27-02.10.37:985][235]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.01.27-02.10.37:985][235]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.01.27-02.10.37:985][235]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.01.27-02.10.37:985][235]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.01.27-02.10.37:985][235]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.01.27-02.10.37:986][235]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.01.27-02.10.37:986][235]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.01.27-02.10.37:986][235]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.01.27-02.10.37:986][235]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (404)
+[2019.01.27-02.10.37:991][235]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2019.01.27-02.10.38:175][235]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2019.01.27-02.10.38:175][235]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2019.01.27-02.10.38:176][235]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2019.01.27-02.10.38:181][235]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.01.27-02.10.38:182][235]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.01.27-02.10.38:198][235]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.01.27-02.10.38:198][235]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2019.01.27-02.10.38:198][235]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module MeshPaint (299)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module ACatsTale (296)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.27-02.10.38:199][235]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.27-02.10.38:300][235]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.27-02.10.38:400][235]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.27-02.10.38:400][235]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.27-02.10.38:400][235]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.27-02.10.38:400][235]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.27-02.10.38:400][235]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.27-02.10.38:400][235]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.27-02.10.38:400][235]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.27-02.10.38:406][235]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.27-02.10.38:406][235]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.27-02.10.38:407][235]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.27-02.10.38:407][235]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.27-02.10.38:408][235]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.27-02.10.38:419][235]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.27-02.10.38:419][235]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.27-02.10.38:419][235]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.27-02.10.38:419][235]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.27-02.10.38:420][235]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.27-02.10.38:420][235]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.01.27-02.10.38:420][235]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.01.27-02.10.38:422][235]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.01.27-02.10.38:428][235]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.01.27-02.10.38:428][235]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.01.27-02.10.38:428][235]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.01.27-02.10.38:429][235]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.01.27-02.10.38:430][235]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.01.27-02.10.38:433][235]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.01.27-02.10.38:434][235]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.01.27-02.10.38:473][235]LogDerivedDataCache: Shutdown
+[2019.01.27-02.10.38:473][235]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.01.27-02.10.38:473][235]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.01.27-02.10.38:475][235]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.01.27-02.10.38:482][235]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.01.27-02.10.38:482][235]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.01.27-02.10.38:482][235]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.01.27-02.10.38:482][235]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.01.27-02.10.38:482][235]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.01.27-02.10.38:487][235]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.01.27-02.10.38:487][235]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.01.27-02.10.38:491][235]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.01.27-02.10.38:491][235]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.01.27-02.10.38:529][235]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.01.27-02.10.38:529][235]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.01.27-02.10.38:529][235]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.01.27-02.10.38:529][235]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.01.27-02.10.38:529][235]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.01.27-02.10.38:529][235]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.01.27-02.10.38:529][235]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.01.27-02.10.38:529][235]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.01.27-02.10.38:530][235]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.01.27-02.10.38:530][235]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.01.27-02.10.38:530][235]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.01.27-02.10.38:530][235]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.01.27-02.10.38:530][235]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.01.27-02.10.38:530][235]LogHMD: Freeing OpenVRDLLHandle.
+[2019.01.27-02.10.38:530][235]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.01.27-02.10.38:530][235]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.01.27-02.10.38:530][235]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.01.27-02.10.38:530][235]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.01.27-02.10.38:530][235]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.01.27-02.10.38:552][235]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.01.27-02.10.38:552][235]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.01.27-02.10.38:580][235]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.01.27-02.10.38:580][235]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.27-02.10.38:580][235]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE37833E8-4CCE-AE92-FFA9-8CAA1CEE3DBE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=3776db594f0cfe3b093087bc5ab84237%7Ccd33c2694c134c8198344ba92c27e3c5%7Caaed3ee1-3dab-413e-a3d6-500bbca6ae47&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.27-02.10.38:592][235]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.01.27-02.10.38:603][235]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.01.27-02.10.38:603][235]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.01.27-02.10.38:603][235]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.01.27-02.10.38:603][235]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.01.27-02.10.38:603][235]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.01.27-02.10.38:603][235]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.01.27-02.10.38:603][235]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.01.27-02.10.38:604][235]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.27-02.10.38:604][235]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.01.27-02.10.38:604][235]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.01.27-02.10.38:604][235]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.27-02.10.38:604][235]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.27-02.10.38:604][235]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.27-02.10.38:604][235]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.27-02.10.38:604][235]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.27-02.10.38:604][235]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.27-02.10.38:604][235]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.27-02.10.38:635][235]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.27-02.10.38:635][235]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.27-02.10.38:635][235]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.27-02.10.38:635][235]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.27-02.10.38:635][235]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.27-02.10.38:635][235]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.27-02.10.38:635][235]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.27-02.10.38:635][235]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.27-02.10.38:635][235]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.27-02.10.38:635][235]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.27-02.10.38:635][235]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.27-02.10.38:647][235]LogExit: Exiting.
+[2019.01.27-02.10.38:700][235]Log file closed, 01/26/19 21:10:38
