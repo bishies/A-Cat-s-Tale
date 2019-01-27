@@ -1,0 +1,875 @@
+﻿Log file open, 01/27/19 15:12:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ACatsTale
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.290904
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.139s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Engines/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Engine.ini]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:1]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Engine.ini]
+[2019.01.27-20.12.34:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Engine.ini]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.27-20.12.34:546][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Engine.ini]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.27-20.12.34:547][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Engine.ini]
+[2019.01.27-20.12.34:547][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Engine.ini]
+[2019.01.27-20.12.34:550][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:550][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.27-20.12.34:550][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.27-20.12.34:550][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:550][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.27-20.12.34:550][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:550][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.27-20.12.34:550][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.27-20.12.34:550][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.27-20.12.34:550][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.27-20.12.34:550][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.27-20.12.34:550][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.27-20.12.34:550][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.27-20.12.34:550][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.27-20.12.34:550][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.27-20.12.34:551][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.27-20.12.34:552][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.27-20.12.34:552][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.27-20.12.34:552][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.27-20.12.34:570][  0]LogHAL: Display: Platform has ~ 16 GB [17049968640 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.27-20.12.34:570][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.27-20.12.34:570][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.27-20.12.34:570][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:570][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.27-20.12.34:570][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.27-20.12.34:570][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:570][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.27-20.12.34:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.27-20.12.34:572][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.27-20.12.34:573][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.27-20.12.34:573][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Config/Windows/Engine.ini]
+[2019.01.27-20.12.34:573][  0]LogInit: Computer: MSI
+[2019.01.27-20.12.34:573][  0]LogInit: User: Chris
+[2019.01.27-20.12.34:573][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.27-20.12.34:573][  0]LogInit: High frequency timer resolution =2.531254 MHz
+[2019.01.27-20.12.34:573][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.27-20.12.34:573][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.27-20.12.34:573][  0]LogMemory: Process Physical Memory: 104.52 MB used, 104.52 MB peak
+[2019.01.27-20.12.34:573][  0]LogMemory: Process Virtual Memory: 94.14 MB used, 94.14 MB peak
+[2019.01.27-20.12.34:573][  0]LogMemory: Physical Memory: 6279.74 MB used,  9980.38 MB free, 16260.12 MB total
+[2019.01.27-20.12.34:573][  0]LogMemory: Virtual Memory: 4655.17 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.01.27-20.12.34:607][  0]LogInit: Using OS detected language (en-US).
+[2019.01.27-20.12.34:607][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.27-20.12.34:608][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.27-20.12.35:112][  0]LogStreaming: Display: Took  0.506s to InitEngineTextLocalization.
+[2019.01.27-20.12.35:112][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.27-20.12.35:146][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.27-20.12.35:147][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.27-20.12.35:463][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.27-20.12.35:463][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.27-20.12.35:541][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.01.27-20.12.35:541][  0]LogD3D11RHI:       2987/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.27-20.12.35:550][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.01.27-20.12.35:550][  0]LogD3D11RHI:       128/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.27-20.12.35:553][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.27-20.12.35:553][  0]LogD3D11RHI:       0/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.27-20.12.35:553][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.27-20.12.35:602][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.27-20.12.35:602][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.27-20.12.35:602][  0]LogWindows: EnumDisplayDevices:
+[2019.01.27-20.12.35:602][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.01.27-20.12.35:603][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.01.27-20.12.35:603][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.01.27-20.12.35:603][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.27-20.12.35:604][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.27-20.12.35:604][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.27-20.12.35:604][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.27-20.12.35:604][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.01.27-20.12.35:604][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.01.27-20.12.35:604][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2019.01.27-20.12.35:604][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2019.01.27-20.12.35:604][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2019.01.27-20.12.35:651][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.27-20.12.35:672][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.27-20.12.36:042][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.27-20.12.36:057][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.27-20.12.36:071][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.27-20.12.36:086][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.27-20.12.36:102][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.27-20.12.36:116][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.27-20.12.36:130][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.27-20.12.36:144][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.27-20.12.36:149][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.27-20.12.36:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:232][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:233][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-20.12.36:234][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.27-20.12.36:302][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.27-20.12.36:302][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.27-20.12.36:330][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.27-20.12.36:330][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.27-20.12.36:344][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.27-20.12.36:358][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.27-20.12.36:370][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.27-20.12.36:387][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.27-20.12.36:442][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.27-20.12.36:443][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.27-20.12.36:443][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.27-20.12.36:495][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Intermediate/Shaders/WorkingDirectory/12020/).
+[2019.01.27-20.12.36:495][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Chris/AppData/Local/Temp/UnrealShaderWorkingDir/ACEF9EAE49B504C8171CB9BF978712D3/'.
+[2019.01.27-20.12.36:496][  0]LogXGEController: Cleaning working directory: C:/Users/Chris/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.27-20.12.36:496][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.27-20.12.36:496][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.27-20.12.36:496][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.27-20.12.37:217][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.27-20.12.37:286][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Chris/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.27-20.12.37:286][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Chris/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.27-20.12.37:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.27-20.12.37:286][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.27-20.12.37:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.27-20.12.37:286][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.27-20.12.37:303][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.27-20.12.37:303][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.27-20.12.37:303][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.27-20.12.37:316][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.27-20.12.37:316][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.27-20.12.37:316][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.27-20.12.37:348][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.27-20.12.37:350][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.27-20.12.37:350][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.27-20.12.37:453][  0]LogAssetRegistry: FAssetRegistry took 0.0372 seconds to start up
+[2019.01.27-20.12.37:884][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.27-20.12.38:045][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.27-20.12.38:048][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.27-20.12.38:048][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.27-20.12.38:048][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.27-20.12.38:048][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.27-20.12.38:069][  0]LogNetVersion: ACatsTale 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3783747687)
+[2019.01.27-20.12.38:716][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.126127 seconds
+[2019.01.27-20.12.38:724][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.27-20.12.38:724][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.27-20.12.38:724][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.27-20.12.39:728][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.27-20.12.39:741][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.27-20.12.40:963][  0]SourceControl: Source control is disabled
+[2019.01.27-20.12.40:963][  0]SourceControl: Source control is disabled
+[2019.01.27-20.12.40:965][  0]SourceControl: Source control is disabled
+[2019.01.27-20.12.40:966][  0]SourceControl: Source control is disabled
+[2019.01.27-20.12.41:138][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.27-20.12.41:196][  0]LogOcInput: OculusInput pre-init called
+[2019.01.27-20.12.41:335][  0]LogEngine: Initializing Engine...
+[2019.01.27-20.12.41:336][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.27-20.12.41:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.27-20.12.41:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.27-20.12.41:338][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.27-20.12.41:338][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.27-20.12.41:629][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.27-20.12.41:641][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.27-20.12.41:651][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-20.12.41:691][  0]LogInit: FAudioDevice initialized.
+[2019.01.27-20.12.41:691][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.27-20.12.41:818][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/Chris/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.27-20.12.41:841][  0]LogInit: Texture streaming: Enabled
+[2019.01.27-20.12.41:859][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.27-20.12.41:871][  0]LogInit: Transaction tracking system initialized
+[2019.01.27-20.12.41:891][  0]BlueprintLog: New page: Editor Load
+[2019.01.27-20.12.42:070][  0]LocalizationService: Localization service is disabled
+[2019.01.27-20.12.42:612][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/' took 0.02s
+[2019.01.27-20.12.42:612][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.27-20.12.42:612][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.27-20.12.42:612][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.27-20.12.42:612][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.27-20.12.42:612][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.27-20.12.42:612][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.27-20.12.42:612][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.27-20.12.42:750][  0]SourceControl: Source control is disabled
+[2019.01.27-20.12.42:750][  0]Cmd: MAP LOAD FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-20.12.42:751][  0]LightingResults: New page: Lighting Build
+[2019.01.27-20.12.42:753][  0]MapCheck: New page: Map Check
+[2019.01.27-20.12.42:753][  0]LightingResults: New page: Lighting Build
+[2019.01.27-20.12.43:004][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.27-20.12.43:023][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-20.12.43:052][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-20.12.43:052][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.262ms to complete.
+[2019.01.27-20.12.43:052][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.302
+[2019.01.27-20.12.43:148][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-20.12.43:157][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-20.12.43:166][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-20.12.43:175][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-20.12.43:181][  0]LogCollectionManager: Loaded 0 collections in 0.001066 seconds
+[2019.01.27-20.12.43:195][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Collections/' took 0.01s
+[2019.01.27-20.12.43:195][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/Developers/Chris/Collections/' took 0.00s
+[2019.01.27-20.12.43:195][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/Collections/' took 0.00s
+[2019.01.27-20.12.43:195][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.27-20.12.43:206][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2653 classes and 622 folders.
+[2019.01.27-20.12.43:212][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.01.27-20.12.43:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:216][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:216][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:220][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:220][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-20.12.43:257][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.27-20.12.43:261][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.01.27-20.12.43:313][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.01.27-20.12.43:313][  0]LogLoad: (Engine Initialization) Total time: 10.71 seconds
+[2019.01.27-20.12.43:313][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.27-20.12.43:395][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.27-20.12.43:397][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.27-20.12.43:399][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.27-20.12.43:408][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.27-20.12.43:516][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.27-20.12.43:553][  1]LogRenderer: Reallocating scene render targets to support 592x360 Format 10 NumSamples 1 (Frame:1).
+[2019.01.27-20.12.43:560][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/' took 0.21s
+[2019.01.27-20.12.43:789][  4]LogAssetRegistry: Asset discovery search completed in 6.3589 seconds
+[2019.01.27-20.12.43:790][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.27-20.12.43:790][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2019.01.27-20.12.44:778][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-20.12.44:786][  7]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.27-20.12.45:263][ 31]LogRenderer: Reallocating scene render targets to support 892x576 Format 10 NumSamples 1 (Frame:6).
+[2019.01.27-20.12.52:934][400]LogAIModule: Creating AISystem for world House
+[2019.01.27-20.12.53:008][400]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonCPP/Maps/House.House
+[2019.01.27-20.12.53:039][400]Cmd: MAP LOAD FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-20.12.53:039][400]LightingResults: New page: Lighting Build
+[2019.01.27-20.12.53:039][400]LoadErrors: New page: Loading map: House.umap
+[2019.01.27-20.12.53:040][400]MapCheck: New page: Map Check
+[2019.01.27-20.12.53:040][400]LightingResults: New page: Lighting Build
+[2019.01.27-20.12.53:150][400]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-20.12.53:216][400]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-20.12.53:218][400]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.663ms to complete.
+[2019.01.27-20.12.53:218][400]LogFileHelpers: Loading map 'House' took 0.180
+[2019.01.27-20.12.55:131][507]AssetReimport: New page: Outstanding source content changes 10:12:55 AM
+[2019.01.27-20.12.55:133][507]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/catcube/CUBE.fbx)
+[2019.01.27-20.12.55:146][507]LogFbx: Loading FBX Scene from C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/catcube/CUBE.fbx
+[2019.01.27-20.12.55:152][507]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-20.12.57:047][507]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.27-20.12.57:306][507]LogStaticMesh: Building static mesh CUBE...
+[2019.01.27-20.12.57:311][507]LogStaticMesh: Built static mesh [0.01s] /Game/assets/catcube/CUBE.CUBE
+[2019.01.27-20.12.57:495][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/catcube/CUBE" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/catcube/CUBE.uasset" SILENT=true
+[2019.01.27-20.12.57:526][508]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/CUBEDE73C5934541FBD6768BCAB440AB0106.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/catcube/CUBE.uasset'
+[2019.01.27-20.12.59:258][602]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-20.12.59:269][602]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-20.13.00:556][679]AssetReimport: Importing new asset /Game/assets/catcube/CUBE.
+[2019.01.27-20.13.02:900][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-20.13.03:801][871]LogEditorViewport: Clicking on Actor (LMB): smackableSmallBoxes_C (smackableSmall29)
+[2019.01.27-20.13.04:423][902]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.27-20.13.08:247][113]LogEditorViewport: Clicking on Actor (LMB): smackableSmallBoxes_C (smackableSmall31)
+[2019.01.27-20.13.09:232][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-20.13.09:785][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-20.13.09:790][199]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/smackableSmallBoxes.smackableSmallBoxes
+[2019.01.27-20.13.10:341][199]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2019.01.27-20.13.11:233][199]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.27-20.13.13:528][320]LogSlate: Window 'smackableSmallBoxes' being destroyed
+[2019.01.27-20.13.13:536][320]LogSlate: Window 'smackableSmallBoxes' being destroyed
+[2019.01.27-20.13.15:000][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-20.13.22:778][784]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/smackableSmallBoxes1.smackableSmallBoxes1
+[2019.01.27-20.13.24:963][864]LogRenderer: Reallocating scene render targets to support 1144x900 Format 10 NumSamples 1 (Frame:1).
+[2019.01.27-20.13.27:241][974]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-20.13.35:375][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-20.13.42:660][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-20.14.04:896][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-20.14.12:989][979]LogAssetEditorManager: Opening Asset editor for Material /Game/assets/catcube/lambert1.lambert1
+[2019.01.27-20.14.12:993][979]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.01.27-20.14.13:310][979]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.01.27-20.14.13:328][979]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.01.27-20.14.13:358][979]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.27-20.14.13:358][979]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.27-20.14.13:358][979]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.27-20.14.13:358][979]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.27-20.14.13:372][979]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.27-20.14.13:924][996]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.27-20.14.13:924][996]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.27-20.14.13:924][996]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.27-20.14.13:965][997]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.27-20.14.14:142][  4]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.27-20.14.14:142][  4]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.27-20.14.14:166][  5]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.27-20.14.14:188][  6]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-20.14.14:386][ 16]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.27-20.14.14:645][ 29]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.27-20.14.14:885][ 40]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.27-20.14.14:942][ 42]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.27-20.14.15:201][ 53]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.27-20.14.15:344][ 59]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.27-20.14.15:417][ 63]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.27-20.14.15:771][ 76]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.27-20.14.15:793][ 77]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.27-20.14.16:023][ 87]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-20.14.16:023][ 87]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-20.14.16:590][110]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.01.27-20.14.16:590][110]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.01.27-20.14.16:590][110]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.27-20.14.16:590][110]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.27-20.14.29:831][857]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.27-20.14.51:308][910]BlueprintLog: New page: Compile smackableSmallBoxes1
+[2019.01.27-20.14.54:505][  1]LogSlate: Window 'Message' being destroyed
+[2019.01.27-20.14.54:931][  1]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.01.27-20.14.54:992][  1]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.27-20.14.54:992][  1]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.27-20.14.54:992][  1]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.27-20.14.54:992][  1]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.27-20.14.55:013][  1]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.01.27-20.14.55:037][  1]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.01.27-20.14.55:112][  1]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.27-20.14.56:755][  1]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.27-20.14.56:756][  1]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.27-20.14.56:756][  1]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.27-20.14.56:756][  1]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.27-20.14.56:756][  1]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.27-20.14.56:756][  1]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-20.14.56:756][  1]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-20.14.56:756][  1]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-20.14.56:759][  1]TextureStreamingBuild: Display: Compiling optional shaders took 1.658 seconds.
+[2019.01.27-20.14.56:806][  1]LogSlate: Window 'lambert1*' being destroyed
+[2019.01.27-20.14.56:810][  1]LogSlate: Window 'lambert1*' being destroyed
+[2019.01.27-20.15.00:075][179]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-20.15.00:101][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.15.00:101][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-20.15.00:101][179]PIE: New page: PIE session: House (Jan 27, 2019, 10:15:00 AM)
+[2019.01.27-20.15.00:114][179]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-20.15.00:166][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052032s)
+[2019.01.27-20.15.00:166][179]LogAIModule: Creating AISystem for world House
+[2019.01.27-20.15.00:167][179]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2019.01.27-20.15.00:167][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.053355s)
+[2019.01.27-20.15.00:209][179]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-20.15.00:217][179]LogInit: FAudioDevice initialized.
+[2019.01.27-20.15.00:260][179]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-20.15.00:270][179]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 60) at 2019.01.27-15.15.00
+[2019.01.27-20.15.00:271][179]LogWorld: Bringing up level for play took: 0.010158
+[2019.01.27-20.15.00:288][179]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.01.27-20.15.00:295][179]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House -0.613
+[2019.01.27-20.15.00:295][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.15.02:434][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.15.02:434][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-20.15.02:474][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-20.15.02:474][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.15.02:505][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-20.15.02:547][303]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.01.27-20.16.11:818][291]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Chris/Downloads/CUBEUV.png)
+[2019.01.27-20.16.11:882][291]LogTexture: Display: Building textures: CUBEUV (AutoDXT, 2048X2048)
+[2019.01.27-20.16.19:349][649]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/smackableSmallBoxes1.smackableSmallBoxes1
+[2019.01.27-20.16.40:050][719]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/assets/catcube/CUBEUV.CUBEUV
+[2019.01.27-20.16.40:055][719]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.01.27-20.16.40:981][754]LogSlate: Window 'CUBEUV*' being destroyed
+[2019.01.27-20.16.40:988][754]LogSlate: Window 'CUBEUV*' being destroyed
+[2019.01.27-20.16.43:338][867]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.199 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-20.16.43:843][896]LogMaterial: Display: Missing cached shader map for material CUBEUV_Mat, compiling. 
+[2019.01.27-20.16.43:870][897]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-20.16.43:870][897]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-20.16.43:870][897]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-20.16.50:746][278]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/smackableSmallBoxes1.smackableSmallBoxes1
+[2019.01.27-20.17.14:218][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-20.17.14:287][559]LogSlate: Window 'smackableSmallBoxes1*' being destroyed
+[2019.01.27-20.17.14:295][559]LogSlate: Window 'smackableSmallBoxes1*' being destroyed
+[2019.01.27-20.17.17:216][654]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.27-20.17.32:662][516]LogEditorViewport: Clicking on Actor (LMB): winbag_C (winbag)
+[2019.01.27-20.17.33:541][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-20.17.34:271][596]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-20.17.34:275][596]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/winbag.winbag
+[2019.01.27-20.18.05:420][266]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/UI/DialogueTriggers.DialogueTriggers
+[2019.01.27-20.18.54:888][909]BlueprintLog: New page: Compile winbag
+[2019.01.27-20.18.59:802][168]LogEditorViewport: Clicking on Actor (LMB): winbag_C (winbag)
+[2019.01.27-20.19.11:973][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-20.19.20:035][278]LogEditorViewport: Clicking on Actor (LMB): winbag_C (winbag1)
+[2019.01.27-20.19.21:072][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-20.19.21:876][360]BlueprintLog: New page: Compile winbag
+[2019.01.27-20.19.23:920][457]LogEditorViewport: Clicking on Actor (LMB): winbag_C (winbag)
+[2019.01.27-20.19.28:440][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-20.20.40:752][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-20.20.40:782][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.20.40:782][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-20.20.40:782][ 34]PIE: New page: PIE session: House (Jan 27, 2019, 10:20:40 AM)
+[2019.01.27-20.20.40:782][ 34]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-20.20.40:823][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041007s)
+[2019.01.27-20.20.40:824][ 34]LogAIModule: Creating AISystem for world House
+[2019.01.27-20.20.40:824][ 34]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2019.01.27-20.20.40:824][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.042082s)
+[2019.01.27-20.20.40:869][ 34]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-20.20.40:876][ 34]LogInit: FAudioDevice initialized.
+[2019.01.27-20.20.40:910][ 34]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-20.20.40:918][ 34]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 60) at 2019.01.27-15.20.40
+[2019.01.27-20.20.40:919][ 34]LogWorld: Bringing up level for play took: 0.007790
+[2019.01.27-20.20.40:936][ 34]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House 0.028
+[2019.01.27-20.20.40:936][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.20.41:250][ 50]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-20.20.52:870][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.20.52:870][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-20.20.52:923][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-20.20.52:923][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.20.52:953][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-20.20.53:003][748]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.01.27-20.20.56:226][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-20.20.56:276][938]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-20.20.56:301][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.20.56:301][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-20.20.56:301][938]PIE: New page: PIE session: House (Jan 27, 2019, 10:20:56 AM)
+[2019.01.27-20.20.56:301][938]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-20.20.56:340][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040103s)
+[2019.01.27-20.20.56:342][938]LogAIModule: Creating AISystem for world House
+[2019.01.27-20.20.56:342][938]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2019.01.27-20.20.56:342][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.041083s)
+[2019.01.27-20.20.56:374][938]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-20.20.56:382][938]LogInit: FAudioDevice initialized.
+[2019.01.27-20.20.56:416][938]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-20.20.56:425][938]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 60) at 2019.01.27-15.20.56
+[2019.01.27-20.20.56:426][938]LogWorld: Bringing up level for play took: 0.008081
+[2019.01.27-20.20.56:443][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	CatThoughts_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.CatThoughts_C_0
+	Function /Game/Blueprints/UI/CatThoughts.CatThoughts_C:ExecuteUbergraph_CatThoughts:00B3
+[2019.01.27-20.20.56:443][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  CatThoughts Function:  Execute Ubergraph Cat Thoughts Graph:  EventGraph Node:  Disable Input
+[2019.01.27-20.20.56:446][938]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House -0.461
+[2019.01.27-20.20.56:446][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.21.01:203][220]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-20.21.02:987][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.21.02:988][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-20.21.03:028][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-20.21.03:028][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.21.03:065][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-20.21.03:088][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-20.21.03:163][328]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.01.27-20.21.04:702][415]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-20.21.04:713][415]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-20.21.06:156][489]LogEditorViewport: Clicking on Actor (LMB): winbag_C (winbag)
+[2019.01.27-20.21.07:629][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-20.21.35:288][155]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/CatThinksaboutWinning.CatThinksaboutWinning
+[2019.01.27-20.22.15:288][ 92]LogSlate: Window 'Delete Variable' being destroyed
+[2019.01.27-20.23.41:965][603]BlueprintLog: New page: Compile CatThinksaboutWinning
+[2019.01.27-20.24.03:784][849]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-20.24.03:810][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.24.03:810][849]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.27-20.24.03:814][849]LogPlayLevel: [PlayLevel] Compiling winbag before play...
+[2019.01.27-20.24.03:818][849]LogBlueprint: Error: [Compiler winbag] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2019.01.27-20.24.03:818][849]LogBlueprint: Error: [Compiler winbag] This blueprint (self) is not a CatThoughts_C, therefore ' Target ' must have a connection.
+[2019.01.27-20.24.03:819][849]LogBlueprint: Error: [Compiler winbag] Variable node  Set Lines  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.01.27-20.24.03:820][849]LogBlueprint: Warning: [Compiler winbag] [0691.22] Compile of winbag failed. 3 Fatal Issue(s) 0 Warning(s) [in 6 ms] (/Game/Blueprints/winbag.winbag)
+[2019.01.27-20.24.04:062][849]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (1 blueprints)
+[2019.01.27-20.24.04:062][849]BlueprintLog: Blueprint winbag failed to compile
+[2019.01.27-20.24.05:700][849]LogSlate: Window 'Message' being destroyed
+[2019.01.27-20.24.05:710][849]PIE: New page: PIE session: House (Jan 27, 2019, 10:24:05 AM)
+[2019.01.27-20.24.05:710][849]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-20.24.05:756][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045532s)
+[2019.01.27-20.24.05:757][849]LogAIModule: Creating AISystem for world House
+[2019.01.27-20.24.05:757][849]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2019.01.27-20.24.05:757][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.046798s)
+[2019.01.27-20.24.05:801][849]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-20.24.05:809][849]LogInit: FAudioDevice initialized.
+[2019.01.27-20.24.05:843][849]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-20.24.05:852][849]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 60) at 2019.01.27-15.24.05
+[2019.01.27-20.24.05:853][849]LogWorld: Bringing up level for play took: 0.008636
+[2019.01.27-20.24.05:870][849]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House 2.963
+[2019.01.27-20.24.05:870][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.24.06:791][902]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.24.06:791][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-20.24.06:830][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-20.24.06:830][902]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-20.24.06:866][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-20.24.06:908][903]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.01.27-20.24.08:827][ 14]LogEditorViewport: Clicking on Actor (LMB): winbag_C (winbag)
+[2019.01.27-20.24.11:078][137]Cmd: TRANSACTION UNDO
+[2019.01.27-20.24.11:078][137]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.27-20.24.11:078][137]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.27-20.24.11:998][137]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.919 s
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: 
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: 
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: Stack: 
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa45b285e8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa68a4fe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa68a7acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa68a6140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa68acb427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa68b0f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa68aa726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa68a60b4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa68a5a786 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa69360b33 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa3841773e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa38417b5e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa6b2e206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa6b324c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa38427562 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa384175e9 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa6b3269f9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa6b319a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa79f0daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa79f00de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa79f101eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa79efca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffaa0de6d41 USER32.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffaa0de6713 USER32.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa79f11746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ff7c6545546 UE4Editor.exe!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ff7c655596c UE4Editor.exe!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ff7c65559ea UE4Editor.exe!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ff7c65648da UE4Editor.exe!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ff7c656659a UE4Editor.exe!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffa9e433034 KERNEL32.DLL!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: [Callstack] 0x00007ffaa1003691 ntdll.dll!UnknownFunction []
+[2019.01.27-20.24.11:998][137]LogOutputDevice: Error: 
+[2019.01.27-20.24.12:000][137]LogStats:                SubmitErrorReport -  0.000 s
