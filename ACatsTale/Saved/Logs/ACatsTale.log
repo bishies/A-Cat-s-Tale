@@ -3256,3 +3256,1183 @@ Please see Output Log for details.
 [2019.01.27-19.08.29:473][649]LogSlate: Window 'Save Content' being destroyed
 [2019.01.27-19.08.30:076][649]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/HouseEF6744F24CA0FD8FA7BDC0958A293E4A.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House.umap'
 [2019.01.27-19.08.30:121][649]LogFileHelpers: Saving map 'House' took 0.613
+[2019.01.27-19.09.06:950][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.09.07:056][386]AssetReimport: New page: Outstanding source content changes 9:09:07 AM
+[2019.01.27-19.09.07:058][386]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/BiPlane/Biplane_Mesh.fbx)
+[2019.01.27-19.09.07:069][386]LogFbx: Loading FBX Scene from C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/BiPlane/Biplane_Mesh.fbx
+[2019.01.27-19.09.07:087][386]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-19.09.09:729][386]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.27-19.09.10:124][386]LogStaticMesh: Building static mesh Biplane_Mesh...
+[2019.01.27-19.09.10:651][386]LogStaticMesh: Built static mesh [0.53s] /Game/assets/BiPlane/Biplane_Mesh.Biplane_Mesh
+[2019.01.27-19.09.10:740][387]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Book/booK.fbx)
+[2019.01.27-19.09.10:754][387]LogFbx: Loading FBX Scene from C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Book/booK.fbx
+[2019.01.27-19.09.10:764][387]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-19.09.12:490][387]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.27-19.09.12:593][387]LogStaticMesh: Building static mesh booK...
+[2019.01.27-19.09.12:597][387]LogStaticMesh: Built static mesh [0.00s] /Game/assets/Book/booK.booK
+[2019.01.27-19.09.12:651][388]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp.fbx)
+[2019.01.27-19.09.12:664][388]LogFbx: Loading FBX Scene from C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp.fbx
+[2019.01.27-19.09.12:680][388]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-19.09.13:823][388]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.27-19.09.13:913][388]LogStaticMesh: Building static mesh lamp_pCube1...
+[2019.01.27-19.09.13:919][388]LogStaticMesh: Built static mesh [0.01s] /Game/assets/LAmp/lamp_pCube1.lamp_pCube1
+[2019.01.27-19.09.13:953][388]LogStaticMesh: Building static mesh lamp_pCylinder1...
+[2019.01.27-19.09.13:955][388]LogStaticMesh: Built static mesh [0.00s] /Game/assets/LAmp/lamp_pCylinder1.lamp_pCylinder1
+[2019.01.27-19.09.13:971][388]LogStaticMesh: Building static mesh lamp_pCylinder2...
+[2019.01.27-19.09.13:974][388]LogStaticMesh: Built static mesh [0.00s] /Game/assets/LAmp/lamp_pCylinder2.lamp_pCylinder2
+[2019.01.27-19.09.13:993][388]LogStaticMesh: Building static mesh lamp_pCylinder3...
+[2019.01.27-19.09.13:998][388]LogStaticMesh: Built static mesh [0.01s] /Game/assets/LAmp/lamp_pCylinder3.lamp_pCylinder3
+[2019.01.27-19.09.14:013][388]LogStaticMesh: Building static mesh lamp_pCylinder4...
+[2019.01.27-19.09.14:016][388]LogStaticMesh: Built static mesh [0.00s] /Game/assets/LAmp/lamp_pCylinder4.lamp_pCylinder4
+[2019.01.27-19.09.14:032][388]LogStaticMesh: Building static mesh lamp_pCylinder5...
+[2019.01.27-19.09.14:034][388]LogStaticMesh: Built static mesh [0.00s] /Game/assets/LAmp/lamp_pCylinder5.lamp_pCylinder5
+[2019.01.27-19.09.14:098][388]LogStaticMesh: Building static mesh lamp_pSphere1...
+[2019.01.27-19.09.14:127][388]LogStaticMesh: Built static mesh [0.03s] /Game/assets/LAmp/lamp_pSphere1.lamp_pSphere1
+[2019.01.27-19.09.14:251][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/BiPlane/Biplane_Mesh" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/BiPlane/Biplane_Mesh.uasset" SILENT=true
+[2019.01.27-19.09.14:273][389]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Biplane_Mesh325EBC8A4BB1D61C8990EBBA0EFE7286.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/BiPlane/Biplane_Mesh.uasset'
+[2019.01.27-19.09.14:315][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Book/booK" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Book/booK.uasset" SILENT=true
+[2019.01.27-19.09.14:341][389]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/booK85EF4479496EA12CF56C3DB27B4A60CE.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Book/booK.uasset'
+[2019.01.27-19.09.14:358][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/LAmp/lamp" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp.uasset" SILENT=true
+[2019.01.27-19.09.14:370][389]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/lamp26047350443069D2294C41B8427BD103.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp.uasset'
+[2019.01.27-19.09.14:873][414]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.09.15:544][449]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.09.15:555][449]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.09.17:396][550]AssetReimport: Importing new asset /Game/assets/BiPlane/Biplane_Mesh.
+[2019.01.27-19.09.17:396][550]AssetReimport: Importing new asset /Game/assets/Book/booK.
+[2019.01.27-19.09.17:396][550]AssetReimport: Importing new asset /Game/assets/LAmp/lamp.
+[2019.01.27-19.09.20:003][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.09.20:069][701]MapCheck: New page: Map Check
+[2019.01.27-19.09.20:093][701]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.27-19.09.20:093][701]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.27-19.09.20:273][701]LogEditorServer: Cleared 3 NULL BSP materials after rebuild.
+[2019.01.27-19.09.20:412][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.27-19.09.20:453][701]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.09.20:453][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.27-19.09.20:466][701]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.09.20:466][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy bedframe, compiling. 
+[2019.01.27-19.09.20:476][701]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.09.20:476][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Blue_Wall_Mat, compiling. 
+[2019.01.27-19.09.20:491][701]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.09.20:491][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Green_wall_Mat, compiling. 
+[2019.01.27-19.09.20:502][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy yellowWall, compiling. 
+[2019.01.27-19.09.20:514][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2019.01.27-19.09.20:524][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy toasted, compiling. 
+[2019.01.27-19.09.20:535][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.27-19.09.20:546][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2019.01.27-19.09.20:557][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy metalchair, compiling. 
+[2019.01.27-19.09.20:568][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy metalchair, compiling. 
+[2019.01.27-19.09.20:579][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy black_wheels, compiling. 
+[2019.01.27-19.09.20:590][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy chairfabric, compiling. 
+[2019.01.27-19.09.20:601][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy pillows, compiling. 
+[2019.01.27-19.09.20:613][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy bedsheets, compiling. 
+[2019.01.27-19.09.20:625][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Dresser_legs, compiling. 
+[2019.01.27-19.09.20:637][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bolt, compiling. 
+[2019.01.27-19.09.20:648][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Gate, compiling. 
+[2019.01.27-19.09.20:661][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy fridge, compiling. 
+[2019.01.27-19.09.20:673][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy fridgehandle, compiling. 
+[2019.01.27-19.09.20:686][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy smallBed_sheets, compiling. 
+[2019.01.27-19.09.20:698][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Trashcan1, compiling. 
+[2019.01.27-19.09.20:713][701]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.27-19.09.20:713][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy phongE1, compiling. 
+[2019.01.27-19.09.20:728][701]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.27-19.09.20:728][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Sink1, compiling. 
+[2019.01.27-19.09.20:739][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2019.01.27-19.09.20:752][701]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.27-19.09.20:753][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy water, compiling. 
+[2019.01.27-19.09.20:765][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Wood, compiling. 
+[2019.01.27-19.09.20:776][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert10, compiling. 
+[2019.01.27-19.09.20:788][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert11, compiling. 
+[2019.01.27-19.09.20:799][701]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-19.09.20:799][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert9, compiling. 
+[2019.01.27-19.09.20:810][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert13, compiling. 
+[2019.01.27-19.09.20:821][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2019.01.27-19.09.20:833][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert12, compiling. 
+[2019.01.27-19.09.20:844][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy closedbox, compiling. 
+[2019.01.27-19.09.20:857][701]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy outUV_petfoodbag_color_Mat, compiling. 
+[2019.01.27-19.09.22:257][701]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.27-19.09.22:257][701]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.27-19.09.22:257][701]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.27-19.09.22:257][701]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.27-19.09.22:257][701]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.27-19.09.22:257][701]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.27-19.09.22:257][701]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.09.22:258][701]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.09.22:258][701]TextureStreamingBuild: Display: Compiling optional shaders took 1.850 seconds.
+[2019.01.27-19.09.22:295][701]LogLevel: Display: Export Material TexCoord Scales took 0.037 seconds.
+[2019.01.27-19.09.22:379][701]TextureStreamingBuild: Display: Build Texture Streaming took 0.083 seconds.
+[2019.01.27-19.09.22:468][701]LightingResults: New page: Lighting Build - Jan 27, 2019, 9:09:22 AM
+[2019.01.27-19.09.22:478][701]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.27-19.09.22:480][701]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.27-19.09.22:480][701]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.27-19.09.22:481][701]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.27-19.09.22:481][701]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12880
+[2019.01.27-19.09.27:000][701]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.27-19.09.27:003][701]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.27-19.09.27:003][701]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.27-19.09.27:003][701]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.27-19.09.27:003][701]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.27-19.09.27:003][701]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.27-19.09.27:165][701]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.27-19.09.27:165][701]MapCheck: New page: House - Jan 27, 2019, 9:09:27 AM
+[2019.01.27-19.09.27:166][701]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.27-19.09.27:169][701]MapCheck: Warning: smackableLargeChair_2 Static mesh actor has NULL StaticMesh property 
+[2019.01.27-19.09.27:170][701]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 5.11ms to complete.
+[2019.01.27-19.09.27:194][701]LogEditorBuildUtils: Build time 0:07
+[2019.01.27-19.09.27:345][702]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert10, compiling. 
+[2019.01.27-19.09.27:354][702]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert10, compiling. 
+[2019.01.27-19.09.27:379][702]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.09.27:379][702]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.09.27:401][703]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert11, compiling. 
+[2019.01.27-19.09.27:411][703]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert11, compiling. 
+[2019.01.27-19.09.27:440][703]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.27-19.09.27:454][704]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert9, compiling. 
+[2019.01.27-19.09.27:468][704]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.09.27:468][704]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert9, compiling. 
+[2019.01.27-19.09.27:516][705]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert13, compiling. 
+[2019.01.27-19.09.27:528][705]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert13, compiling. 
+[2019.01.27-19.09.27:573][706]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2019.01.27-19.09.27:586][706]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2019.01.27-19.09.27:617][707]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert12, compiling. 
+[2019.01.27-19.09.27:631][707]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert12, compiling. 
+[2019.01.27-19.09.27:662][708]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer outUV_petfoodbag_color_Mat, compiling. 
+[2019.01.27-19.09.27:680][708]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer outUV_petfoodbag_color_Mat, compiling. 
+[2019.01.27-19.09.27:716][709]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Blue_Wall_Mat, compiling. 
+[2019.01.27-19.09.27:737][709]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Blue_Wall_Mat, compiling. 
+[2019.01.27-19.09.27:776][710]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Green_wall_Mat, compiling. 
+[2019.01.27-19.09.27:790][710]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Green_wall_Mat, compiling. 
+[2019.01.27-19.09.30:297][712]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.27-19.09.30:297][712]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.27-19.09.30:297][712]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.27-19.09.30:298][712]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.09.30:314][712]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.09.37:036][  7]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.09.37:036][  7]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.09.37:376][ 23]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.09.37:376][ 23]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.09.38:242][ 63]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.09.38:242][ 63]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.09.38:857][ 91]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.09.38:857][ 91]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.09.39:503][119]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.09.39:503][119]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.09.39:577][124]Job is a success!
+[2019.01.27-19.09.39:610][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.09.39:671][125]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2019.01.27-19.09.39:671][125]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.27-19.09.39:671][125]LogVolumetricLightmapImport:      BrickData 445x5x5 = 0.4Mb
+[2019.01.27-19.09.39:671][125]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.27-19.09.39:671][125]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2019.01.27-19.09.39:671][125]LogVolumetricLightmapImport:          1: 4.5% covering 6.3% of volume
+[2019.01.27-19.09.39:671][125]LogVolumetricLightmapImport:          2: 94.4% covering 2.1% of volume
+[2019.01.27-19.09.39:784][125]LogMaterial: Warning: Material /Game/assets/outUV_petfoodbag_color_Mat.outUV_petfoodbag_color_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.01.27-19.09.39:784][125]LogMaterial: Warning: Material /Engine/Transient.outUV_petfoodbag_color_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.01.27-19.09.39:788][125]LogMaterial: Display: Missing cached shader map for material outUV_petfoodbag_color_Mat, compiling. 
+[2019.01.27-19.09.39:810][125]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.27-19.09.39:810][125]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.27-19.09.39:810][125]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.27-19.09.39:810][125]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.27-19.09.39:810][125]LogMaterial: Display: Missing cached shader map for material outUV_petfoodbag_color_Mat, compiling. 
+[2019.01.27-19.09.40:423][125]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.27-19.09.40:423][125]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.27-19.09.40:423][125]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.01.27-19.09.40:423][125]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.01.27-19.09.40:423][125]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.01.27-19.09.40:423][125]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.01.27-19.09.40:423][125]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.01.27-19.09.40:423][125]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.01.27-19.09.40:423][125]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.01.27-19.09.40:423][125]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.01.27-19.09.40:430][125]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.01.27-19.09.40:553][125]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2019.01.27-19.09.40:553][125]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X64)
+[2019.01.27-19.09.40:553][125]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 512X512)
+[2019.01.27-19.09.40:581][125]Lightmass on MSI: 8.92 sec total, 262 ms importing, 37 ms setup, 4.21 sec photons, 4.34 sec processing, 0 ms extra exporting [311/311 mappings]. Threads: 30.2 sec total, 16.9 sec processing.
+[2019.01.27-19.09.40:644][125]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.27-19.09.40:652][125]LogMaterial: Warning: Material /Game/assets/_materials/Blue_Wall_Mat.Blue_Wall_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.01.27-19.09.40:653][125]LogMaterial: Warning: Material /Engine/Transient.Blue_Wall_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.01.27-19.09.40:658][125]LogMaterial: Display: Missing cached shader map for material Blue_Wall_Mat, compiling. 
+[2019.01.27-19.09.40:688][125]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.01.27-19.09.40:691][125]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.01.27-19.09.40:691][125]LogMaterial: Display: Missing cached shader map for material Blue_Wall_Mat, compiling. 
+[2019.01.27-19.09.40:726][125]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.01.27-19.09.40:749][125]LogStaticLightingSystem: Illumination: 18.2 sec (563 ms encoding lightmaps, 120 ms encoding shadowmaps)
+[2019.01.27-19.09.40:749][125]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.01.27-19.09.40:749][125]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.1 MB streaming, 0.3 MB non-streaming), 3 textures
+[2019.01.27-19.09.41:011][125]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.01.27-19.09.41:012][125]DumpUnbuiltLightIteractions
+[2019.01.27-19.09.41:012][125]Lights with unbuilt interactions: 0
+[2019.01.27-19.09.41:012][125]
+[2019.01.27-19.09.41:012][125]Primitives with unbuilt interactions: 0
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.01.27-19.09.49:986][125]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-19.09.49:987][125]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.09.50:116][126]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.27-19.09.50:117][126]MapCheck: New page: House - Jan 27, 2019, 9:09:50 AM
+[2019.01.27-19.09.50:121][126]MapCheck: Warning: smackableLargeChair_2 Static mesh actor has NULL StaticMesh property 
+[2019.01.27-19.09.50:124][126]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 7.534ms to complete.
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: Base pass shader with Surface Lightmap: 129 instructions
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: Texture samplers: 4/16
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: Texture samplers: 4/16
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.01.27-19.09.50:151][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.27-19.09.51:631][210]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.09.51:642][210]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.10.16:358][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.10.24:205][ 90]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/assets/BiPlane/Biplane_Mesh.Biplane_Mesh
+[2019.01.27-19.10.37:314][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.10.39:547][880]LogActorFactory: Actor Factory created Biplane_Mesh
+[2019.01.27-19.10.40:409][925]LogActorFactory: Actor Factory created Biplane_Mesh
+[2019.01.27-19.11.18:996][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.11.24:948][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh)
+[2019.01.27-19.11.26:376][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.11.28:650][667]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.11.35:622][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.11.41:938][407]Cmd: DELETE
+[2019.01.27-19.11.41:938][407]Cmd: ACTOR DELETE
+[2019.01.27-19.11.41:960][407]LogEditorActor: Deleted Actor: Brush
+[2019.01.27-19.11.42:026][407]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.01.27-19.11.47:598][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh)
+[2019.01.27-19.11.49:949][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2019.01.27-19.11.52:350][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.11.59:149][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh)
+[2019.01.27-19.12.17:320][336]Cmd: DELETE
+[2019.01.27-19.12.17:320][336]Cmd: ACTOR DELETE
+[2019.01.27-19.12.17:340][336]LogEditorActor: Deleted Actor: Brush
+[2019.01.27-19.12.17:409][336]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2019.01.27-19.12.18:103][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh2)
+[2019.01.27-19.12.45:937][960]Cmd: DELETE
+[2019.01.27-19.12.45:937][960]Cmd: ACTOR DELETE
+[2019.01.27-19.12.45:957][960]LogEditorActor: Deleted Actor: Brush
+[2019.01.27-19.12.46:026][960]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2019.01.27-19.12.46:321][971]Cmd: DELETE
+[2019.01.27-19.12.46:321][971]Cmd: ACTOR DELETE
+[2019.01.27-19.12.46:341][971]LogEditorActor: Deleted Actor: Brush
+[2019.01.27-19.12.46:405][971]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2019.01.27-19.12.46:885][993]Cmd: DELETE
+[2019.01.27-19.12.46:885][993]Cmd: ACTOR DELETE
+[2019.01.27-19.12.46:911][993]LogEditorActor: Deleted Actor: Brush
+[2019.01.27-19.12.46:973][993]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.01.27-19.12.47:518][ 19]Cmd: DELETE
+[2019.01.27-19.12.47:518][ 19]Cmd: ACTOR DELETE
+[2019.01.27-19.12.47:537][ 19]LogEditorActor: Deleted Actor: Brush
+[2019.01.27-19.12.47:607][ 19]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.01.27-19.12.49:428][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh)
+[2019.01.27-19.13.04:310][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh3)
+[2019.01.27-19.14.13:237][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.14.13:303][921]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-19.14.13:336][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.14.13:336][921]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.27-19.14.13:341][921]LogPlayLevel: [PlayLevel] Compiling winbag before play...
+[2019.01.27-19.14.13:527][921]LogPlayLevel: [PlayLevel] Compiling winner before play...
+[2019.01.27-19.14.13:573][921]LogPlayLevel: PlayLevel: Blueprint regeneration took 237 ms (2 blueprints)
+[2019.01.27-19.14.13:573][921]PIE: New page: PIE session: House (Jan 27, 2019, 9:14:13 AM)
+[2019.01.27-19.14.13:573][921]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-19.14.13:609][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035832s)
+[2019.01.27-19.14.13:610][921]LogAIModule: Creating AISystem for world House
+[2019.01.27-19.14.13:610][921]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2019.01.27-19.14.13:610][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.036931s)
+[2019.01.27-19.14.13:651][921]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-19.14.13:660][921]LogInit: FAudioDevice initialized.
+[2019.01.27-19.14.13:693][921]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-19.14.13:701][921]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 60) at 2019.01.27-14.14.13
+[2019.01.27-19.14.13:702][921]LogWorld: Bringing up level for play took: 0.007625
+[2019.01.27-19.14.13:718][921]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House 0.811
+[2019.01.27-19.14.13:718][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.14.21:047][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.14.21:048][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-19.14.21:102][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-19.14.21:102][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.14.21:141][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-19.14.21:181][359]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.01.27-19.14.33:449][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh5)
+[2019.01.27-19.14.43:644][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh6)
+[2019.01.27-19.14.44:997][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.14.54:208][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh5)
+[2019.01.27-19.14.56:803][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh6)
+[2019.01.27-19.14.57:569][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.14.59:525][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh5)
+[2019.01.27-19.15.00:634][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.15.07:803][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh4)
+[2019.01.27-19.15.09:526][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.15.14:322][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh3)
+[2019.01.27-19.15.22:448][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.15.31:243][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh)
+[2019.01.27-19.15.38:192][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.15.50:762][ 76]LogMaterial: Display: Missing cached shader map for material toastedtexture_Mat, compiling. 
+[2019.01.27-19.15.50:803][ 77]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-19.15.50:803][ 77]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-19.15.50:803][ 77]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.15.59:493][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh2)
+[2019.01.27-19.16.05:883][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.16.14:302][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh)
+[2019.01.27-19.16.15:606][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.16.25:034][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.16.26:286][895]MapCheck: New page: Map Check
+[2019.01.27-19.16.26:314][895]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.27-19.16.26:319][895]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.27-19.16.26:626][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.27-19.16.26:636][895]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.16.26:636][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.27-19.16.26:645][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy bedframe, compiling. 
+[2019.01.27-19.16.26:656][895]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.16.26:656][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Blue_Wall_Mat, compiling. 
+[2019.01.27-19.16.26:669][895]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.16.26:669][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Green_wall_Mat, compiling. 
+[2019.01.27-19.16.26:684][895]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.16.26:684][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy yellowWall, compiling. 
+[2019.01.27-19.16.26:697][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2019.01.27-19.16.26:710][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy toasted, compiling. 
+[2019.01.27-19.16.26:723][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.27-19.16.26:734][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2019.01.27-19.16.26:747][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy metalchair, compiling. 
+[2019.01.27-19.16.26:758][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy metalchair, compiling. 
+[2019.01.27-19.16.26:768][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy black_wheels, compiling. 
+[2019.01.27-19.16.26:776][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy chairfabric, compiling. 
+[2019.01.27-19.16.26:787][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy pillows, compiling. 
+[2019.01.27-19.16.26:802][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy bedsheets, compiling. 
+[2019.01.27-19.16.26:819][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Dresser_legs, compiling. 
+[2019.01.27-19.16.26:831][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bolt, compiling. 
+[2019.01.27-19.16.26:843][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Gate, compiling. 
+[2019.01.27-19.16.26:854][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy fridge, compiling. 
+[2019.01.27-19.16.26:867][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy fridgehandle, compiling. 
+[2019.01.27-19.16.26:879][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy smallBed_sheets, compiling. 
+[2019.01.27-19.16.26:892][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Trashcan1, compiling. 
+[2019.01.27-19.16.26:903][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy phongE1, compiling. 
+[2019.01.27-19.16.26:914][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Sink1, compiling. 
+[2019.01.27-19.16.26:927][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2019.01.27-19.16.26:939][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy water, compiling. 
+[2019.01.27-19.16.26:954][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Wood, compiling. 
+[2019.01.27-19.16.26:964][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert10, compiling. 
+[2019.01.27-19.16.26:974][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert11, compiling. 
+[2019.01.27-19.16.26:984][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert9, compiling. 
+[2019.01.27-19.16.26:995][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert13, compiling. 
+[2019.01.27-19.16.27:007][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2019.01.27-19.16.27:019][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert12, compiling. 
+[2019.01.27-19.16.27:031][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy closedbox, compiling. 
+[2019.01.27-19.16.27:043][895]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy outUV_petfoodbag_color_Mat, compiling. 
+[2019.01.27-19.16.28:769][895]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.27-19.16.28:769][895]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.27-19.16.28:769][895]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.27-19.16.28:769][895]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.27-19.16.28:769][895]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.27-19.16.28:769][895]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.27-19.16.28:769][895]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.27-19.16.28:769][895]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.27-19.16.28:769][895]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.16.28:770][895]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.16.28:770][895]TextureStreamingBuild: Display: Compiling optional shaders took 2.147 seconds.
+[2019.01.27-19.16.28:801][895]LogLevel: Display: Export Material TexCoord Scales took 0.031 seconds.
+[2019.01.27-19.16.28:898][895]TextureStreamingBuild: Display: Build Texture Streaming took 0.098 seconds.
+[2019.01.27-19.16.28:928][895]LightingResults: New page: Lighting Build - Jan 27, 2019, 9:16:28 AM
+[2019.01.27-19.16.28:937][895]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.27-19.16.28:939][895]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.27-19.16.28:939][895]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.27-19.16.28:940][895]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.27-19.16.28:940][895]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12880
+[2019.01.27-19.16.33:466][895]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.27-19.16.33:468][895]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.27-19.16.33:468][895]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.27-19.16.33:468][895]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.27-19.16.33:468][895]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.27-19.16.33:468][895]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.27-19.16.33:635][895]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.27-19.16.33:635][895]MapCheck: New page: House - Jan 27, 2019, 9:16:33 AM
+[2019.01.27-19.16.33:635][895]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.27-19.16.33:638][895]MapCheck: Warning: smackableLargeChair_2 Static mesh actor has NULL StaticMesh property 
+[2019.01.27-19.16.33:639][895]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 4.282ms to complete.
+[2019.01.27-19.16.33:662][895]LogEditorBuildUtils: Build time 0:07
+[2019.01.27-19.16.33:681][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.16.33:813][896]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Blue_Wall_Mat, compiling. 
+[2019.01.27-19.16.33:823][896]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.16.33:823][896]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Blue_Wall_Mat, compiling. 
+[2019.01.27-19.16.33:831][896]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.16.33:885][897]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer outUV_petfoodbag_color_Mat, compiling. 
+[2019.01.27-19.16.33:896][897]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.16.33:896][897]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer outUV_petfoodbag_color_Mat, compiling. 
+[2019.01.27-19.16.33:921][897]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.16.40:732][152]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.16.40:744][152]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.16.41:013][162]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.16.41:035][163]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.16.42:443][194]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.16.42:443][194]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.16.42:443][194]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.16.42:443][194]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.16.43:105][196]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.16.43:105][196]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.16.43:445][197]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.16.43:445][197]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.16.44:443][200]Job is a success!
+[2019.01.27-19.16.44:882][201]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2019.01.27-19.16.44:882][201]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.27-19.16.44:882][201]LogVolumetricLightmapImport:      BrickData 445x5x5 = 0.4Mb
+[2019.01.27-19.16.44:882][201]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.27-19.16.44:882][201]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2019.01.27-19.16.44:882][201]LogVolumetricLightmapImport:          1: 4.5% covering 6.3% of volume
+[2019.01.27-19.16.44:882][201]LogVolumetricLightmapImport:          2: 94.4% covering 2.1% of volume
+[2019.01.27-19.16.45:517][201]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.27-19.16.45:517][201]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.27-19.16.45:517][201]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.01.27-19.16.45:517][201]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.01.27-19.16.45:517][201]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.01.27-19.16.45:517][201]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.01.27-19.16.45:590][201]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2019.01.27-19.16.45:590][201]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X64)
+[2019.01.27-19.16.45:590][201]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 512X512)
+[2019.01.27-19.16.45:607][201]Lightmass on MSI: 10.0 sec total, 284 ms importing, 57 ms setup, 4.71 sec photons, 4.98 sec processing, 0 ms extra exporting [257/257 mappings]. Threads: 34.7 sec total, 19.2 sec processing.
+[2019.01.27-19.16.45:701][201]LogStaticLightingSystem: Illumination: 16.4 sec (497 ms encoding lightmaps, 71 ms encoding shadowmaps)
+[2019.01.27-19.16.45:701][201]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.01.27-19.16.45:701][201]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.1 MB streaming, 0.3 MB non-streaming), 3 textures
+[2019.01.27-19.16.46:476][201]DumpUnbuiltLightIteractions
+[2019.01.27-19.16.46:476][201]Lights with unbuilt interactions: 0
+[2019.01.27-19.16.46:476][201]
+[2019.01.27-19.16.46:476][201]Primitives with unbuilt interactions: 0
+[2019.01.27-19.16.46:621][202]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.27-19.16.46:621][202]MapCheck: New page: House - Jan 27, 2019, 9:16:46 AM
+[2019.01.27-19.16.46:625][202]MapCheck: Warning: smackableLargeChair_2 Static mesh actor has NULL StaticMesh property 
+[2019.01.27-19.16.46:628][202]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 6.491ms to complete.
+[2019.01.27-19.16.51:847][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.16.51:896][295]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.16.51:905][295]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.17.03:778][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.17.03:844][962]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-19.17.03:870][962]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.17.03:870][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-19.17.03:870][962]PIE: New page: PIE session: House (Jan 27, 2019, 9:17:03 AM)
+[2019.01.27-19.17.03:870][962]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-19.17.03:911][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040588s)
+[2019.01.27-19.17.03:912][962]LogAIModule: Creating AISystem for world House
+[2019.01.27-19.17.03:912][962]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2019.01.27-19.17.03:912][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.041913s)
+[2019.01.27-19.17.03:953][962]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-19.17.03:961][962]LogInit: FAudioDevice initialized.
+[2019.01.27-19.17.03:994][962]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-19.17.04:002][962]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 60) at 2019.01.27-14.17.04
+[2019.01.27-19.17.04:003][962]LogWorld: Bringing up level for play took: 0.008117
+[2019.01.27-19.17.04:020][962]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House 1.112
+[2019.01.27-19.17.04:029][962]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.17.09:384][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.17.09:385][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-19.17.09:428][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-19.17.09:428][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.17.09:469][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-19.17.09:512][280]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.01.27-19.17.35:128][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Biplane_Mesh6)
+[2019.01.27-19.17.35:776][822]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Biplane_Mesh5)
+[2019.01.27-19.17.36:301][849]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Biplane_Mesh4)
+[2019.01.27-19.17.39:324][ 19]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Biplane_Mesh3)
+[2019.01.27-19.17.40:823][105]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Biplane_Mesh)
+[2019.01.27-19.17.41:525][143]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Biplane_Mesh2)
+[2019.01.27-19.17.43:498][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.17.59:201][123]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/House0ED663E249DE1537CB30C7AAF06BFEE4.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House.umap'
+[2019.01.27-19.17.59:438][123]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/House_BuiltDataAE55E2E4435431E1C85F6F8943328747.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House_BuiltData.uasset'
+[2019.01.27-19.18.10:126][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.18.24:561][ 23]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Chris/Downloads/Cat_bed/Cat Bed ALB.png)
+[2019.01.27-19.18.24:637][ 23]LogTexture: Display: Building textures: Cat_Bed_ALB (AutoDXT, 2048X2048)
+[2019.01.27-19.18.24:881][ 23]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Chris/Downloads/Cat_bed/Cat Bed.fbx)
+[2019.01.27-19.18.24:892][ 23]LogFbx: Loading FBX Scene from C:/Users/Chris/Downloads/Cat_bed/Cat Bed.fbx
+[2019.01.27-19.18.24:899][ 23]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.27-19.18.25:989][ 23]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.27-19.18.26:096][ 23]LogTexture: Display: Building textures: Cat_Bed_ALB (AutoDXT, 2048X2048)
+[2019.01.27-19.18.26:322][ 23]LogMaterial: Display: Missing cached shader map for material Cat_bed1, compiling. 
+[2019.01.27-19.18.26:339][ 23]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2019.01.27-19.18.26:349][ 23]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-19.18.26:349][ 23]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-19.18.26:349][ 23]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.18.26:352][ 23]LogStaticMesh: Building static mesh Cat_Bed...
+[2019.01.27-19.18.26:356][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/assets/Cat_Bed.Cat_Bed
+[2019.01.27-19.18.26:357][ 23]LogStaticMesh: Warning: Cat_Bed has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.01.27-19.18.26:357][ 23]LogStaticMesh: Warning: Cat_Bed has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.01.27-19.18.26:369][ 23]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.27-19.18.26:369][ 23]FBXImport: Warning: Cat_Bed has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.01.27-19.18.26:369][ 23]FBXImport: Warning: Cat_Bed has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.01.27-19.18.27:943][ 91]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.18.27:957][ 91]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.18.32:639][326]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/assets/Cat_Bed.Cat_Bed
+[2019.01.27-19.18.37:010][522]LogActorFactory: Actor Factory created Cat_Bed
+[2019.01.27-19.18.37:980][563]LogActorFactory: Actor Factory created Cat_Bed
+[2019.01.27-19.18.48:104][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (smallBed)
+[2019.01.27-19.18.48:669][120]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.01.27-19.18.51:401][279]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.18.52:735][355]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.18.53:256][384]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.18.54:305][445]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.18.55:673][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.19.03:550][959]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-19.19.03:578][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.19.03:579][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-19.19.03:579][959]PIE: New page: PIE session: House (Jan 27, 2019, 9:19:03 AM)
+[2019.01.27-19.19.03:579][959]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-19.19.03:616][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037861s)
+[2019.01.27-19.19.03:616][959]LogAIModule: Creating AISystem for world House
+[2019.01.27-19.19.03:618][959]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2019.01.27-19.19.03:618][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.038910s)
+[2019.01.27-19.19.03:659][959]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-19.19.03:667][959]LogInit: FAudioDevice initialized.
+[2019.01.27-19.19.03:701][959]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-19.19.03:708][959]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 60) at 2019.01.27-14.19.03
+[2019.01.27-19.19.03:709][959]LogWorld: Bringing up level for play took: 0.006405
+[2019.01.27-19.19.03:726][959]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House 0.819
+[2019.01.27-19.19.03:727][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.19.04:330][992]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-19.19.05:332][ 52]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.19.05:332][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-19.19.05:373][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-19.19.05:373][ 52]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.19.05:412][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-19.19.05:459][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.01.27-19.19.06:554][117]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.01.27-19.19.08:835][251]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.19.10:383][336]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.01.27-19.19.11:282][385]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.19.12:049][429]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.19.12:805][472]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.19.16:213][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.19.20:630][925]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.19.21:671][986]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.19.22:978][ 62]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.19.23:551][ 93]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.19.24:188][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.19.24:255][131]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-19.19.24:282][131]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.19.24:282][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-19.19.24:282][131]PIE: New page: PIE session: House (Jan 27, 2019, 9:19:24 AM)
+[2019.01.27-19.19.24:282][131]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-19.19.24:318][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036344s)
+[2019.01.27-19.19.24:319][131]LogAIModule: Creating AISystem for world House
+[2019.01.27-19.19.24:319][131]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2019.01.27-19.19.24:319][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.037588s)
+[2019.01.27-19.19.24:363][131]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-19.19.24:371][131]LogInit: FAudioDevice initialized.
+[2019.01.27-19.19.24:404][131]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-19.19.24:411][131]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 60) at 2019.01.27-14.19.24
+[2019.01.27-19.19.24:412][131]LogWorld: Bringing up level for play took: 0.007462
+[2019.01.27-19.19.24:430][131]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House -0.478
+[2019.01.27-19.19.24:430][131]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.19.25:001][162]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-19.19.26:003][222]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.19.26:003][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-19.19.26:045][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-19.19.26:045][222]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.19.26:077][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-19.19.26:129][223]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.01.27-19.19.26:882][266]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.01.27-19.19.27:781][317]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.27-19.19.28:720][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.19.31:914][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.19.32:013][549]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-19.19.32:038][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.19.32:038][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-19.19.32:038][549]PIE: New page: PIE session: House (Jan 27, 2019, 9:19:32 AM)
+[2019.01.27-19.19.32:038][549]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-19.19.32:079][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040808s)
+[2019.01.27-19.19.32:080][549]LogAIModule: Creating AISystem for world House
+[2019.01.27-19.19.32:080][549]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2019.01.27-19.19.32:080][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.041550s)
+[2019.01.27-19.19.32:122][549]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-19.19.32:130][549]LogInit: FAudioDevice initialized.
+[2019.01.27-19.19.32:166][549]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-19.19.32:174][549]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 60) at 2019.01.27-14.19.32
+[2019.01.27-19.19.32:175][549]LogWorld: Bringing up level for play took: 0.007944
+[2019.01.27-19.19.32:192][549]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House -0.716
+[2019.01.27-19.19.32:192][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.19.35:327][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.19.35:328][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-19.19.35:368][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-19.19.35:368][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.19.35:398][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-19.19.35:448][734]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.01.27-19.19.36:248][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cat_Bed)
+[2019.01.27-19.19.37:497][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.19.49:277][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.19.51:417][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.20.09:250][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.20.11:065][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.20.12:349][434]LogSlate: Window 'Message' being destroyed
+[2019.01.27-19.20.13:396][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.20.24:583][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.20.25:399][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.20.28:708][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.20.30:695][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.20.34:655][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.20.35:911][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.20.47:431][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.20.47:553][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Cat_Bed" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Cat_Bed.uasset" SILENT=true
+[2019.01.27-19.20.47:572][ 76]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Cat_Bed712BD3B8417DB3D204CD6DA2B98DC360.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Cat_Bed.uasset'
+[2019.01.27-19.20.48:735][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.20.49:652][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.20.49:735][171]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-19.20.49:761][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.20.49:761][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-19.20.49:761][171]PIE: New page: PIE session: House (Jan 27, 2019, 9:20:49 AM)
+[2019.01.27-19.20.49:761][171]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-19.20.49:800][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038083s)
+[2019.01.27-19.20.49:801][171]LogAIModule: Creating AISystem for world House
+[2019.01.27-19.20.49:801][171]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2019.01.27-19.20.49:801][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.039527s)
+[2019.01.27-19.20.49:840][171]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-19.20.49:848][171]LogInit: FAudioDevice initialized.
+[2019.01.27-19.20.49:882][171]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-19.20.49:890][171]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 60) at 2019.01.27-14.20.49
+[2019.01.27-19.20.49:891][171]LogWorld: Bringing up level for play took: 0.008218
+[2019.01.27-19.20.49:909][171]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House 1.001
+[2019.01.27-19.20.49:909][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.20.54:287][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.20.54:288][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-19.20.54:332][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-19.20.54:333][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-19.20.54:373][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-19.20.54:426][431]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.01.27-19.20.55:934][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.20.56:001][507]MapCheck: New page: Map Check
+[2019.01.27-19.20.56:035][507]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.27-19.20.56:036][507]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.27-19.20.56:359][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.27-19.20.56:369][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.01.27-19.20.56:379][507]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.20.56:379][507]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.20.56:379][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy bedframe, compiling. 
+[2019.01.27-19.20.56:387][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Blue_Wall_Mat, compiling. 
+[2019.01.27-19.20.56:396][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Green_wall_Mat, compiling. 
+[2019.01.27-19.20.56:410][507]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.20.56:410][507]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.20.56:410][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy yellowWall, compiling. 
+[2019.01.27-19.20.56:419][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2019.01.27-19.20.56:430][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy toasted, compiling. 
+[2019.01.27-19.20.56:446][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.01.27-19.20.56:460][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2019.01.27-19.20.56:474][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy metalchair, compiling. 
+[2019.01.27-19.20.56:483][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy metalchair, compiling. 
+[2019.01.27-19.20.56:494][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy black_wheels, compiling. 
+[2019.01.27-19.20.56:502][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy chairfabric, compiling. 
+[2019.01.27-19.20.56:512][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy pillows, compiling. 
+[2019.01.27-19.20.56:520][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy bedsheets, compiling. 
+[2019.01.27-19.20.56:529][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Dresser_legs, compiling. 
+[2019.01.27-19.20.56:542][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bolt, compiling. 
+[2019.01.27-19.20.56:554][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Gate, compiling. 
+[2019.01.27-19.20.56:567][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy fridge, compiling. 
+[2019.01.27-19.20.56:580][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy fridgehandle, compiling. 
+[2019.01.27-19.20.56:594][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy smallBed_sheets, compiling. 
+[2019.01.27-19.20.56:608][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Trashcan1, compiling. 
+[2019.01.27-19.20.56:621][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy phongE1, compiling. 
+[2019.01.27-19.20.56:632][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Sink1, compiling. 
+[2019.01.27-19.20.56:644][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2019.01.27-19.20.56:657][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy water, compiling. 
+[2019.01.27-19.20.56:669][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Wood, compiling. 
+[2019.01.27-19.20.56:682][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert10, compiling. 
+[2019.01.27-19.20.56:694][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert11, compiling. 
+[2019.01.27-19.20.56:707][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert9, compiling. 
+[2019.01.27-19.20.56:721][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert13, compiling. 
+[2019.01.27-19.20.56:732][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2019.01.27-19.20.56:743][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert12, compiling. 
+[2019.01.27-19.20.56:753][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy closedbox, compiling. 
+[2019.01.27-19.20.56:765][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy outUV_petfoodbag_color_Mat, compiling. 
+[2019.01.27-19.20.56:777][507]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Cat_bed1, compiling. 
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.20.58:624][507]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.20.58:624][507]TextureStreamingBuild: Display: Compiling optional shaders took 2.269 seconds.
+[2019.01.27-19.20.58:661][507]LogLevel: Display: Export Material TexCoord Scales took 0.036 seconds.
+[2019.01.27-19.20.58:776][507]TextureStreamingBuild: Display: Build Texture Streaming took 0.113 seconds.
+[2019.01.27-19.20.58:808][507]LightingResults: New page: Lighting Build - Jan 27, 2019, 9:20:58 AM
+[2019.01.27-19.20.58:825][507]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.27-19.20.58:827][507]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.27-19.20.58:827][507]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.27-19.20.58:828][507]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.27-19.20.58:828][507]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12880
+[2019.01.27-19.21.03:349][507]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.27-19.21.03:351][507]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.27-19.21.03:351][507]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.27-19.21.03:351][507]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.27-19.21.03:351][507]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.27-19.21.03:351][507]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.27-19.21.03:497][507]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.27-19.21.03:497][507]MapCheck: New page: House - Jan 27, 2019, 9:21:03 AM
+[2019.01.27-19.21.03:497][507]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.01.27-19.21.03:500][507]MapCheck: Warning: smackableLargeChair_2 Static mesh actor has NULL StaticMesh property 
+[2019.01.27-19.21.03:502][507]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 5.237ms to complete.
+[2019.01.27-19.21.03:525][507]LogEditorBuildUtils: Build time 0:07
+[2019.01.27-19.21.03:542][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.21.03:683][508]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Cat_bed1, compiling. 
+[2019.01.27-19.21.03:694][508]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Cat_bed1, compiling. 
+[2019.01.27-19.21.03:715][508]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.27-19.21.05:921][549]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.21.05:938][549]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.21.11:038][789]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.21.11:038][789]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.21.12:509][856]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.21.12:509][856]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.21.14:121][929]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.21.14:121][929]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.21.14:582][950]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.21.14:582][950]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.21.14:735][957]LightingResults: Warning: Gate_w_bolt_pCylinder3 Object has overlapping UVs.
+[2019.01.27-19.21.14:735][957]LightingResults: Gate_w_bolt_pCylinder3 Lightmap UV are overlapping by 49.8%. Please adjust content - Enable Error Coloring to visualize.
+[2019.01.27-19.21.15:357][988]Job is a success!
+[2019.01.27-19.21.15:422][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.21.15:493][989]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2019.01.27-19.21.15:493][989]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.27-19.21.15:493][989]LogVolumetricLightmapImport:      BrickData 445x5x5 = 0.4Mb
+[2019.01.27-19.21.15:493][989]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.27-19.21.15:493][989]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2019.01.27-19.21.15:493][989]LogVolumetricLightmapImport:          1: 4.5% covering 6.3% of volume
+[2019.01.27-19.21.15:493][989]LogVolumetricLightmapImport:          2: 94.4% covering 2.1% of volume
+[2019.01.27-19.21.15:605][989]LogMaterial: Warning: Material /Game/assets/Cat_bed1.Cat_bed1 needed to have new flag set bUsedWithStaticLighting !
+[2019.01.27-19.21.15:608][989]LogMaterial: Display: Missing cached shader map for material Cat_bed1, compiling. 
+[2019.01.27-19.21.15:634][989]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.27-19.21.15:634][989]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.27-19.21.15:634][989]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.27-19.21.15:634][989]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.21.16:317][989]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.27-19.21.16:317][989]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.27-19.21.16:317][989]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.01.27-19.21.16:317][989]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.01.27-19.21.16:317][989]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.01.27-19.21.16:317][989]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.01.27-19.21.16:428][989]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2019.01.27-19.21.16:428][989]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X64)
+[2019.01.27-19.21.16:428][989]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 512X512)
+[2019.01.27-19.21.16:461][989]Lightmass on MSI: 10.9 sec total, 306 ms importing, 76 ms setup, 5.03 sec photons, 5.47 sec processing, 0 ms extra exporting [258/258 mappings]. Threads: 38.1 sec total, 22.5 sec processing.
+[2019.01.27-19.21.16:559][989]LogStaticLightingSystem: Illumination: 17.7 sec (657 ms encoding lightmaps, 101 ms encoding shadowmaps)
+[2019.01.27-19.21.16:559][989]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.01.27-19.21.16:559][989]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.1 MB streaming, 0.3 MB non-streaming), 3 textures
+[2019.01.27-19.21.17:361][989]DumpUnbuiltLightIteractions
+[2019.01.27-19.21.17:361][989]Lights with unbuilt interactions: 0
+[2019.01.27-19.21.17:361][989]
+[2019.01.27-19.21.17:361][989]Primitives with unbuilt interactions: 0
+[2019.01.27-19.21.19:303][990]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.27-19.21.19:303][990]MapCheck: New page: House - Jan 27, 2019, 9:21:19 AM
+[2019.01.27-19.21.19:306][990]MapCheck: Warning: smackableLargeChair_2 Static mesh actor has NULL StaticMesh property 
+[2019.01.27-19.21.19:309][990]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 5.688ms to complete.
+[2019.01.27-19.21.20:667][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.21.20:715][ 65]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.21.20:729][ 65]LogSlate: Window 'Message Log' being destroyed
+[2019.01.27-19.21.21:450][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.21.23:602][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-19.21.23:609][201]LogMaterial: Display: Missing cached shader map for material wood1_Mat, compiling. 
+[2019.01.27-19.21.23:656][202]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-19.21.23:656][202]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-19.21.23:656][202]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.21.26:715][362]LogMaterial: Warning: Material /Game/assets/wood1_Mat.wood1_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.01.27-19.21.26:719][362]LogMaterial: Display: Missing cached shader map for material wood1_Mat, compiling. 
+[2019.01.27-19.21.26:742][362]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.27-19.21.26:742][362]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.27-19.21.26:742][362]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.27-19.21.27:880][424]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.27-19.21.42:309][244]Cmd: TRANSACTION UNDO
+[2019.01.27-19.21.42:309][244]LogEditorTransaction: Undo Apply Material to Surface
+[2019.01.27-19.21.42:313][244]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.27-19.21.43:389][244]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.076 s
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: 
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: 
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: Stack: 
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa45b285e8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa68a4fe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa68a7acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa68a6140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa68acb427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa68b0f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa68aa726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa68a60b4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa68a5a786 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa69360b33 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa383e773e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa383e7b5e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa6b2e206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa6b324c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa383f7562 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa383e75e9 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa6b3269f9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa6b319a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa79f0daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa79f00de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa79f101eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa79efca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffaa0de6d41 USER32.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffaa0de6713 USER32.dll!UnknownFunction []
+[2019.01.27-19.21.43:389][244]LogOutputDevice: Error: [Callstack] 0x00007ffa79f11746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.27-19.21.43:390][244]LogOutputDevice: Error: [Callstack] 0x00007ff7c6545546 UE4Editor.exe!UnknownFunction []
+[2019.01.27-19.21.43:390][244]LogOutputDevice: Error: [Callstack] 0x00007ff7c655596c UE4Editor.exe!UnknownFunction []
+[2019.01.27-19.21.43:390][244]LogOutputDevice: Error: [Callstack] 0x00007ff7c65559ea UE4Editor.exe!UnknownFunction []
+[2019.01.27-19.21.43:390][244]LogOutputDevice: Error: [Callstack] 0x00007ff7c65648da UE4Editor.exe!UnknownFunction []
+[2019.01.27-19.21.43:390][244]LogOutputDevice: Error: [Callstack] 0x00007ff7c656659a UE4Editor.exe!UnknownFunction []
+[2019.01.27-19.21.43:390][244]LogOutputDevice: Error: [Callstack] 0x00007ffa9e433034 KERNEL32.DLL!UnknownFunction []
+[2019.01.27-19.21.43:390][244]LogOutputDevice: Error: [Callstack] 0x00007ffaa1003691 ntdll.dll!UnknownFunction []
+[2019.01.27-19.21.43:390][244]LogOutputDevice: Error: 
+[2019.01.27-19.21.43:400][244]LogStats:                SubmitErrorReport -  0.000 s
+[2019.01.27-19.21.44:913][244]LogStats:                    SendNewReport -  1.514 s
+[2019.01.27-19.21.44:913][244]LogStats:             FDebug::EnsureFailed -  2.601 s
+[2019.01.27-19.21.44:919][244]LogMaterial: Display: Missing cached shader map for material Green_wall_Mat, compiling. 
+[2019.01.27-19.21.45:025][244]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.27-19.21.45:025][244]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.27-19.21.45:025][244]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.27-19.21.45:025][244]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.27-19.21.45:302][244]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.27-19.21.45:302][244]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.27-19.21.45:302][244]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.27-19.21.45:302][244]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.27-19.21.45:380][244]LogMaterial: Display: Missing cached shader map for material Blue_Wall_Mat, compiling. 
+[2019.01.27-19.21.45:413][244]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-19.21.45:413][244]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.27-19.21.45:419][244]LogMaterial: Display: Missing cached shader map for material blue_wa_Mat, compiling. 
+[2019.01.27-19.21.45:449][244]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.27-19.21.45:449][244]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.01.27-19.21.45:457][244]LogMaterial: Display: Missing cached shader map for material petfoodbag1, compiling. 
+[2019.01.27-19.21.45:527][244]LogMaterial: Display: Missing cached shader map for material outUV_petfoodbag_color_Mat, compiling. 
+[2019.01.27-19.21.45:595][244]LogShaderCompilers: Display: Shaders left to compile 129
+[2019.01.27-19.21.45:611][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.21.45:854][251]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.01.27-19.21.46:081][260]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.01.27-19.21.46:205][265]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.01.27-19.21.46:342][268]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.01.27-19.21.46:495][274]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.01.27-19.21.46:811][289]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.01.27-19.21.46:977][294]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.01.27-19.21.46:999][295]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.01.27-19.21.47:144][301]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.01.27-19.21.47:425][314]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.01.27-19.21.47:556][320]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.01.27-19.21.47:762][330]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.01.27-19.21.47:856][334]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.01.27-19.21.48:006][342]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.01.27-19.21.48:220][352]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.01.27-19.21.48:388][360]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.01.27-19.21.48:491][365]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.01.27-19.21.48:568][369]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.01.27-19.21.48:734][376]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.01.27-19.21.48:840][382]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.01.27-19.21.49:011][390]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.01.27-19.21.49:011][390]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.01.27-19.21.49:013][390]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.01.27-19.21.49:013][390]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.01.27-19.21.49:013][390]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.01.27-19.21.49:013][390]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.01.27-19.21.49:013][390]MaterialEditorStats: Texture samplers: 4/16
+[2019.01.27-19.21.49:013][390]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.01.27-19.21.49:013][390]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.27-19.21.49:071][393]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.01.27-19.21.49:223][402]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.01.27-19.21.49:264][404]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.01.27-19.21.49:280][405]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.01.27-19.21.49:391][410]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.01.27-19.21.49:487][415]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.01.27-19.21.49:499][416]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.01.27-19.21.49:551][419]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.01.27-19.21.49:927][436]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.01.27-19.21.49:970][436]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.01.27-19.21.50:109][440]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.01.27-19.21.50:130][441]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.01.27-19.21.50:336][450]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.01.27-19.21.50:556][459]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.01.27-19.21.50:689][462]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.01.27-19.21.50:704][463]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.01.27-19.21.50:723][464]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.01.27-19.21.51:177][484]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.01.27-19.21.51:208][486]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.01.27-19.21.51:383][494]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.01.27-19.21.51:383][494]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.01.27-19.21.51:557][502]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.01.27-19.21.51:783][512]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.01.27-19.21.51:929][518]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.01.27-19.21.52:060][524]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.01.27-19.21.52:075][525]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.01.27-19.21.52:423][541]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.01.27-19.21.52:440][542]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.01.27-19.21.52:440][542]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.01.27-19.21.52:510][545]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.01.27-19.21.52:519][545]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.01.27-19.21.52:519][545]MaterialEditorStats: Base pass shader with Surface Lightmap: 129 instructions
+[2019.01.27-19.21.52:519][545]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.01.27-19.21.52:519][545]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.01.27-19.21.52:519][545]MaterialEditorStats: Texture samplers: 4/16
+[2019.01.27-19.21.52:519][545]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.01.27-19.21.52:519][545]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.27-19.21.52:708][554]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.01.27-19.21.52:729][555]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.01.27-19.21.52:745][556]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.01.27-19.21.52:774][557]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.01.27-19.21.53:070][564]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.01.27-19.21.53:070][564]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.01.27-19.21.53:070][564]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.01.27-19.21.53:070][564]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.01.27-19.21.53:373][578]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.01.27-19.21.53:605][589]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.01.27-19.21.53:655][592]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.01.27-19.21.53:688][594]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.01.27-19.21.54:054][613]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.01.27-19.21.54:112][616]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.01.27-19.21.54:678][640]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.01.27-19.21.54:706][641]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.01.27-19.21.54:706][641]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.27-19.21.54:762][644]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.01.27-19.21.55:086][658]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.01.27-19.21.55:360][669]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.01.27-19.21.55:384][670]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.01.27-19.21.55:443][673]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.01.27-19.21.55:468][674]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.01.27-19.21.55:837][690]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.01.27-19.21.56:108][700]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.27-19.21.56:123][701]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.01.27-19.21.56:142][702]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.27-19.21.56:444][715]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.01.27-19.21.56:467][716]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.27-19.21.56:490][717]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.01.27-19.21.56:511][717]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.27-19.21.56:511][717]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.01.27-19.21.56:511][717]MaterialEditorStats: Base pass shader with Surface Lightmap: 122 instructions
+[2019.01.27-19.21.56:511][717]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.01.27-19.21.56:511][717]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.01.27-19.21.56:511][717]MaterialEditorStats: Texture samplers: 4/16
+[2019.01.27-19.21.56:511][717]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.01.27-19.21.56:512][717]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.27-19.21.56:740][728]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.27-19.21.56:740][728]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.27-19.21.56:785][730]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.27-19.21.56:791][730]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.27-19.21.56:959][735]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.27-19.21.56:979][736]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.27-19.21.57:027][739]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.27-19.21.57:241][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.21.57:328][749]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.27-19.21.57:379][751]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.27-19.21.57:591][760]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.27-19.21.57:618][761]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.27-19.21.57:707][764]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.27-19.21.57:953][772]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.27-19.21.58:046][774]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.27-19.21.58:224][777]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.27-19.21.58:289][779]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.27-19.21.58:492][782]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.27-19.21.58:523][783]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.27-19.21.58:574][786]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.27-19.21.58:607][787]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.27-19.21.58:608][787]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.01.27-19.21.58:608][787]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.01.27-19.21.58:608][787]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.27-19.21.58:608][787]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.27-19.21.58:760][794]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.27-19.21.58:844][797]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.27-19.21.58:886][799]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.27-19.21.58:913][800]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-19.21.59:088][804]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.27-19.21.59:088][804]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.27-19.21.59:111][805]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.27-19.21.59:142][807]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.27-19.21.59:511][825]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.27-19.21.59:681][832]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.27-19.21.59:743][835]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.27-19.21.59:762][836]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.27-19.22.00:121][852]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.27-19.22.00:271][858]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-19.22.00:437][865]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.27-19.22.00:535][869]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.27-19.22.00:564][870]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.27-19.22.00:638][872]LogMaterial: Display: Missing cached shader map for material Untitled-1_Mat, compiling. 
+[2019.01.27-19.22.00:986][877]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.27-19.22.00:986][877]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.27-19.22.01:180][885]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.27-19.22.01:286][887]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.27-19.22.01:350][888]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.27-19.22.01:620][900]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.27-19.22.01:738][904]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.27-19.22.01:862][907]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.27-19.22.02:026][915]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-19.22.02:179][921]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-19.22.02:226][923]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-19.22.02:377][928]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.01.27-19.22.02:377][928]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.01.27-19.22.02:377][928]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.01.27-19.22.02:377][928]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.01.27-19.22.02:377][928]MaterialEditorStats: Texture samplers: 4/16
+[2019.01.27-19.22.02:377][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.01.27-19.22.02:377][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.27-19.22.17:676][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.22.17:731][796]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2019.01.27-19.22.21:472][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.22.21:505][985]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2019.01.27-19.22.21:925][  8]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2019.01.27-19.22.37:861][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.22.37:944][907]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2019.01.27-19.22.44:021][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.22.44:081][225]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2019.01.27-19.22.44:216][232]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2019.01.27-19.22.46:358][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.22.46:428][349]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2019.01.27-19.22.48:858][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.22.48:924][479]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2019.01.27-19.22.49:090][489]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2019.01.27-19.24.57:976][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-19.24.59:158][829]LogSlate: Window 'Save Content' being destroyed
+[2019.01.27-19.24.59:208][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/_materials/Blue_Wall_Mat" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/_materials/Blue_Wall_Mat.uasset" SILENT=true
+[2019.01.27-19.24.59:253][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Blue_Wall_Mat65FC63A4496E2DF34C40DA9BF2C1DBD6.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/_materials/Blue_Wall_Mat.uasset'
+[2019.01.27-19.24.59:304][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/toastedtexture_MatE686B01148BFA49A314E908332DF8AD4.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/_materials/toastedtexture_Mat.uasset'
+[2019.01.27-19.24.59:326][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/BiPlane/Biplane_Mesh" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/BiPlane/Biplane_Mesh.uasset" SILENT=true
+[2019.01.27-19.24.59:378][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Biplane_Mesh2CD41EF14F447CAE6B30C8BDA8ADCC2A.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/BiPlane/Biplane_Mesh.uasset'
+[2019.01.27-19.24.59:424][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/defaultPolygonShader332F1E694DDA21E903CB539F4E9481F3.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/BiPlane/defaultPolygonShader.uasset'
+[2019.01.27-19.24.59:447][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Book/lambert1" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Book/lambert1.uasset" SILENT=true
+[2019.01.27-19.24.59:467][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/lambert154D41E5D4CFDB2C7E9A7CCAE509B883D.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Book/lambert1.uasset'
+[2019.01.27-19.24.59:490][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Cat_bed1" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Cat_bed1.uasset" SILENT=true
+[2019.01.27-19.24.59:513][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Cat_bed128783A324AB3284D43931BACB02EEA0A.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Cat_bed1.uasset'
+[2019.01.27-19.24.59:532][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Cat_Bed_ALB" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Cat_Bed_ALB.uasset" SILENT=true
+[2019.01.27-19.24.59:756][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Cat_Bed_ALB4100D14D47405B7DD4ADB8837E94EE6B.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Cat_Bed_ALB.uasset'
+[2019.01.27-19.24.59:784][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/LAmp/lambert1" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lambert1.uasset" SILENT=true
+[2019.01.27-19.24.59:805][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/lambert12CD803E649FF20531BF8FA941DBA52CD.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lambert1.uasset'
+[2019.01.27-19.24.59:827][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/LAmp/lamp_pCube1" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pCube1.uasset" SILENT=true
+[2019.01.27-19.24.59:850][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/lamp_pCube1855DD6A642DBF229B859D69387D6A11F.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pCube1.uasset'
+[2019.01.27-19.24.59:872][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/LAmp/lamp_pCylinder1" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pCylinder1.uasset" SILENT=true
+[2019.01.27-19.24.59:890][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/lamp_pCylinder1661CC1E94DA6E6F3CA5148911F298F2F.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pCylinder1.uasset'
+[2019.01.27-19.24.59:913][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/LAmp/lamp_pCylinder2" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pCylinder2.uasset" SILENT=true
+[2019.01.27-19.24.59:933][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/lamp_pCylinder2403CA556457335511E38AC808BF4E8B4.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pCylinder2.uasset'
+[2019.01.27-19.24.59:954][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/LAmp/lamp_pCylinder3" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pCylinder3.uasset" SILENT=true
+[2019.01.27-19.24.59:976][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/lamp_pCylinder3D3B3A13E4066970FE095F0851A862BD0.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pCylinder3.uasset'
+[2019.01.27-19.25.00:000][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/LAmp/lamp_pCylinder4" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pCylinder4.uasset" SILENT=true
+[2019.01.27-19.25.00:028][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/lamp_pCylinder47957401B42D56A1EDEF0E8B154D92694.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pCylinder4.uasset'
+[2019.01.27-19.25.00:051][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/LAmp/lamp_pCylinder5" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pCylinder5.uasset" SILENT=true
+[2019.01.27-19.25.00:076][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/lamp_pCylinder531F750604333327E21B942BEF8B85EC3.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pCylinder5.uasset'
+[2019.01.27-19.25.00:098][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/LAmp/lamp_pSphere1" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pSphere1.uasset" SILENT=true
+[2019.01.27-19.25.00:119][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/lamp_pSphere1963E48FF4DFCA3963923F1B95EBD5347.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/LAmp/lamp_pSphere1.uasset'
+[2019.01.27-19.25.00:129][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/outUV_petfoodbag_color_Mat" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/outUV_petfoodbag_color_Mat.uasset" SILENT=true
+[2019.01.27-19.25.00:171][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/outUV_petfoodbag_color_MatA1BAEDB24213C04C2E08D6AE2DC0AB82.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/outUV_petfoodbag_color_Mat.uasset'
+[2019.01.27-19.25.00:195][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/Untitled-1_Mat" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Untitled-1_Mat.uasset" SILENT=true
+[2019.01.27-19.25.00:223][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/Untitled-1_Mat116D023C4F2D8409ADCFFDA80A0408C6.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/Untitled-1_Mat.uasset'
+[2019.01.27-19.25.00:249][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/wood1_Mat" FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/wood1_Mat.uasset" SILENT=true
+[2019.01.27-19.25.00:273][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/wood1_Mat326540DA47F3C34FAAC543A72C320B75.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/assets/wood1_Mat.uasset'
+[2019.01.27-19.25.01:003][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/HouseAB58CC9847C8BF3C0ACC2FA54B8D04FF.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House.umap'
+[2019.01.27-19.25.01:066][829]LogFileHelpers: Saving map 'House' took 0.783
+[2019.01.27-19.25.01:268][829]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/House_BuiltData6B550D174546AA32985545BB83642441.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House_BuiltData.uasset'
