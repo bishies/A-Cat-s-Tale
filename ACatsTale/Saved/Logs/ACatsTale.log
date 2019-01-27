@@ -3703,3 +3703,386 @@ Scale3D: 1.000000 1.000000 1.000000
 [2019.01.27-15.54.31:022][620]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/House589028F54D9C94EB59199589A2569494.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House.umap'
 [2019.01.27-15.54.31:063][620]LogFileHelpers: Saving map 'House' took 0.576
 [2019.01.27-15.54.31:517][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.55.31:624][329]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.55.31:657][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.55.31:657][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.55.31:657][329]PIE: New page: PIE session: House (Jan 27, 2019, 5:55:31 AM)
+[2019.01.27-15.55.31:657][329]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.55.31:693][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036226s)
+[2019.01.27-15.55.31:694][329]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.55.31:694][329]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2019.01.27-15.55.31:694][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.037365s)
+[2019.01.27-15.55.31:743][329]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-15.55.31:751][329]LogInit: FAudioDevice initialized.
+[2019.01.27-15.55.31:785][329]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.55.31:792][329]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.55.31
+[2019.01.27-15.55.31:793][329]LogWorld: Bringing up level for play took: 0.007260
+[2019.01.27-15.55.31:811][329]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House 0.904
+[2019.01.27-15.55.31:811][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.55.35:580][707]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.55.35:740][723]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.55.35:910][741]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.55.36:072][759]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.55.36:449][799]LogNet: Browse: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.55.36:450][799]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.55.36:493][799]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.55.36:531][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037887s)
+[2019.01.27-15.55.36:531][799]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.55.36:532][799]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2019.01.27-15.55.36:532][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.038851s)
+[2019.01.27-15.55.36:532][799]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.55.36:541][799]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.55.36
+[2019.01.27-15.55.36:541][799]LogWorld: Bringing up level for play took: 0.008061
+[2019.01.27-15.55.36:545][799]LogLoad: Took 0.095997 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_0_House)
+[2019.01.27-15.55.37:650][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Saves Wiped
+[2019.01.27-15.55.38:111][954]LogNet: Browse: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.55.38:112][954]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.55.38:159][954]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.55.38:197][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037340s)
+[2019.01.27-15.55.38:197][954]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.55.38:197][954]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2019.01.27-15.55.38:197][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.038275s)
+[2019.01.27-15.55.38:197][954]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.55.38:205][954]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.55.38
+[2019.01.27-15.55.38:206][954]LogWorld: Bringing up level for play took: 0.007452
+[2019.01.27-15.55.38:209][954]LogLoad: Took 0.097506 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_0_House)
+[2019.01.27-15.55.42:747][412]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3
+[2019.01.27-15.55.42:963][434]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3
+[2019.01.27-15.55.43:088][448]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3
+[2019.01.27-15.55.43:236][464]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3
+[2019.01.27-15.55.43:698][514]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Saves Wiped
+[2019.01.27-15.55.44:717][620]LogNet: Browse: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.55.44:718][620]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.55.44:762][620]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.55.44:797][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034872s)
+[2019.01.27-15.55.44:797][620]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.55.44:797][620]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2019.01.27-15.55.44:798][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.035780s)
+[2019.01.27-15.55.44:798][620]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.55.44:805][620]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.55.44
+[2019.01.27-15.55.44:806][620]LogWorld: Bringing up level for play took: 0.007062
+[2019.01.27-15.55.44:810][620]LogLoad: Took 0.091862 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_0_House)
+[2019.01.27-15.55.47:778][923]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.55.47:779][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.55.47:820][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.55.47:821][923]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.55.47:856][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.55.47:907][924]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2019.01.27-15.56.01:707][394]LogEditorViewport: Clicking on Actor (LMB): Collectible_C (Collectible10)
+[2019.01.27-15.56.02:208][424]LogEditorViewport: Clicking on Actor (CTRL LMB): Collectible_C (Collectible11)
+[2019.01.27-15.56.04:168][570]LogEditorViewport: Clicking on Actor (LMB): Collectible_C (Collectible9)
+[2019.01.27-15.56.04:739][613]LogEditorViewport: Clicking on Actor (CTRL LMB): Collectible_C (Collectible10)
+[2019.01.27-15.56.05:154][645]LogEditorViewport: Clicking on Actor (CTRL LMB): Collectible_C (Collectible11)
+[2019.01.27-15.56.05:676][688]LogEditorViewport: Clicking on Actor (CTRL LMB): Collectible_C (Collectible12)
+[2019.01.27-15.56.06:554][763]Cmd: DELETE
+[2019.01.27-15.56.06:554][763]Cmd: ACTOR DELETE
+[2019.01.27-15.56.06:573][763]LogEditorActor: Deleted Actor: Collectible_C
+[2019.01.27-15.56.06:574][763]LogEditorActor: Deleted Actor: Collectible_C
+[2019.01.27-15.56.06:574][763]LogEditorActor: Deleted Actor: Collectible_C
+[2019.01.27-15.56.06:575][763]LogEditorActor: Deleted Actor: Collectible_C
+[2019.01.27-15.56.06:612][763]LogEditorActor: Deleted 4 Actors (0.057 secs)
+[2019.01.27-15.56.09:365][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.56.21:627][ 66]LogEditorViewport: Clicking on Actor (LMB): smackableLargeChair_C (smackableLargeChair)
+[2019.01.27-15.56.25:925][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.56.29:884][733]LogEditorViewport: Clicking on Actor (LMB): smackableLargeChair_C (smackableLargeChair)
+[2019.01.27-15.56.31:078][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.56.59:250][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.56.59:331][180]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.56.59:364][180]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.56.59:364][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.56.59:364][180]PIE: New page: PIE session: House (Jan 27, 2019, 5:56:59 AM)
+[2019.01.27-15.56.59:364][180]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.56.59:401][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036755s)
+[2019.01.27-15.56.59:402][180]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.56.59:402][180]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2019.01.27-15.56.59:402][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.037628s)
+[2019.01.27-15.56.59:439][180]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-15.56.59:446][180]LogInit: FAudioDevice initialized.
+[2019.01.27-15.56.59:476][180]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.56.59:483][180]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.56.59
+[2019.01.27-15.56.59:483][180]LogWorld: Bringing up level for play took: 0.006266
+[2019.01.27-15.56.59:498][180]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House 0.591
+[2019.01.27-15.56.59:498][180]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.57.07:215][976]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.57.07:431][999]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.57.07:610][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.57.07:789][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.57.07:984][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.57.08:205][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.57.08:448][110]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.57.08:957][165]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.57.09:388][211]LogNet: Browse: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.57.09:389][211]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.57.09:438][211]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.57.09:474][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035826s)
+[2019.01.27-15.57.09:474][211]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.57.09:475][211]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2019.01.27-15.57.09:475][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.037163s)
+[2019.01.27-15.57.09:475][211]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.57.09:483][211]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.57.09
+[2019.01.27-15.57.09:484][211]LogWorld: Bringing up level for play took: 0.007225
+[2019.01.27-15.57.09:487][211]LogLoad: Took 0.097838 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_0_House)
+[2019.01.27-15.57.10:594][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.57.10:595][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.57.10:634][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.57.10:634][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.57.10:676][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.57.10:737][322]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2019.01.27-15.57.13:693][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.57.13:760][603]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.57.13:792][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.57.13:792][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.57.13:792][603]PIE: New page: PIE session: House (Jan 27, 2019, 5:57:13 AM)
+[2019.01.27-15.57.13:792][603]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.57.13:830][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037888s)
+[2019.01.27-15.57.13:830][603]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.57.13:831][603]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2019.01.27-15.57.13:831][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.038633s)
+[2019.01.27-15.57.13:867][603]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-15.57.13:876][603]LogInit: FAudioDevice initialized.
+[2019.01.27-15.57.13:906][603]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.57.13:912][603]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.57.13
+[2019.01.27-15.57.13:913][603]LogWorld: Bringing up level for play took: 0.005683
+[2019.01.27-15.57.13:928][603]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House 1.021
+[2019.01.27-15.57.13:929][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.57.16:940][908]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Saves Wiped
+[2019.01.27-15.57.17:487][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.57.17:487][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.57.17:526][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.57.17:527][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.57.17:570][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.57.17:620][967]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2019.01.27-15.57.18:528][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.57.18:580][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.57.18:610][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.57.18:610][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.57.18:611][ 63]PIE: New page: PIE session: House (Jan 27, 2019, 5:57:18 AM)
+[2019.01.27-15.57.18:611][ 63]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.57.18:644][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033401s)
+[2019.01.27-15.57.18:645][ 63]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.57.18:645][ 63]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2019.01.27-15.57.18:645][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.034121s)
+[2019.01.27-15.57.18:686][ 63]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-15.57.18:694][ 63]LogInit: FAudioDevice initialized.
+[2019.01.27-15.57.18:727][ 63]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.57.18:734][ 63]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.57.18
+[2019.01.27-15.57.18:735][ 63]LogWorld: Bringing up level for play took: 0.006635
+[2019.01.27-15.57.18:750][ 63]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House -0.158
+[2019.01.27-15.57.18:750][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.57.19:211][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.57.19:211][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.57.19:256][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.57.19:256][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.57.19:298][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.57.19:341][104]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2019.01.27-15.57.32:851][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.57.36:212][811]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.27-15.57.36:216][811]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonCPP/Maps/MainMenu.MainMenu
+[2019.01.27-15.57.37:433][811]LogSlate: Window 'Save Content' being destroyed
+[2019.01.27-15.57.38:009][811]LogSavePackage: Moving 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Saved/HouseAAFE67DE4A822D95B0B257B67D4CC40A.tmp' to 'C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House.umap'
+[2019.01.27-15.57.38:046][811]LogFileHelpers: Saving map 'House' took 0.603
+[2019.01.27-15.57.38:048][811]Cmd: MAP LOAD FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-15.57.38:048][811]LightingResults: New page: Lighting Build
+[2019.01.27-15.57.38:048][811]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.01.27-15.57.38:051][811]MapCheck: New page: Map Check
+[2019.01.27-15.57.38:051][811]LightingResults: New page: Lighting Build
+[2019.01.27-15.57.38:091][811]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-15.57.38:169][811]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-15.57.38:169][811]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2019.01.27-15.57.38:169][811]LogFileHelpers: Loading map 'MainMenu' took 0.123
+[2019.01.27-15.57.38:325][811]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.57.40:459][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.57.40:494][ 38]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.27-15.57.40:494][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.57.40:494][ 38]PIE: New page: PIE session: MainMenu (Jan 27, 2019, 5:57:40 AM)
+[2019.01.27-15.57.40:494][ 38]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_MainMenu
+[2019.01.27-15.57.40:495][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000947s)
+[2019.01.27-15.57.40:496][ 38]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.27-15.57.40:496][ 38]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2019.01.27-15.57.40:496][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/MainMenu.MainMenu to /Game/ThirdPersonCPP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001834s)
+[2019.01.27-15.57.40:544][ 38]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-15.57.40:550][ 38]LogInit: FAudioDevice initialized.
+[2019.01.27-15.57.40:580][ 38]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.57.40:581][ 38]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.27-10.57.40
+[2019.01.27-15.57.40:581][ 38]LogWorld: Bringing up level for play took: 0.000381
+[2019.01.27-15.57.40:596][ 38]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_MainMenu -0.311
+[2019.01.27-15.57.40:596][ 38]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.27-15.57.43:141][335]LogNet: Browse: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.57.43:141][335]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.57.43:183][335]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.57.43:220][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036782s)
+[2019.01.27-15.57.43:221][335]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.57.43:221][335]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2019.01.27-15.57.43:221][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.037580s)
+[2019.01.27-15.57.43:221][335]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.57.43:229][335]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.57.43
+[2019.01.27-15.57.43:230][335]LogWorld: Bringing up level for play took: 0.007972
+[2019.01.27-15.57.43:234][335]LogLoad: Took 0.091864 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_0_House)
+[2019.01.27-15.57.48:078][831]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.27-15.57.48:250][850]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.27-15.57.48:426][869]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.27-15.57.48:584][884]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.27-15.57.54:546][510]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.57.54:720][529]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.57.54:872][546]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.57.55:008][561]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.57.55:145][576]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.57.56:318][700]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.57.56:465][716]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.57.57:218][796]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.57.57:391][814]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.57.57:566][833]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.57.59:666][ 50]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.00:251][110]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.00:408][126]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.00:549][139]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.00:708][155]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.00:862][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.01:792][264]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.01:964][282]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.02:134][300]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.02:950][385]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.03:111][402]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.03:268][419]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.03:421][435]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.03:579][451]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.04:101][505]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.04:279][524]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.04:452][542]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.04:620][559]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.09:575][ 81]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.09:731][ 96]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.11:324][266]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.11:788][315]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.11:974][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.13:058][452]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.13:268][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.13:890][542]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.14:143][570]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.17:288][904]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.17:475][924]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.17:636][941]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.17:811][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.18:143][994]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.19:219][108]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.19:390][126]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.19:951][183]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.20:174][207]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.24:253][638]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.24:410][655]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.24:552][670]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.24:691][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.24:845][701]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ComponentTags' of length 0 in '/Script/Engine.ActorComponent'!
+[2019.01.27-15.58.30:609][294]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.58.30:792][313]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.58.30:974][332]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.27-15.58.33:707][621]LogNet: Browse: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.58.33:708][621]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.58.33:746][621]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.58.33:786][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040167s)
+[2019.01.27-15.58.33:787][621]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.58.33:787][621]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2019.01.27-15.58.33:787][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.041244s)
+[2019.01.27-15.58.33:787][621]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.58.33:795][621]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.58.33
+[2019.01.27-15.58.33:796][621]LogWorld: Bringing up level for play took: 0.007030
+[2019.01.27-15.58.33:799][621]LogLoad: Took 0.091419 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_0_House)
+[2019.01.27-15.58.36:843][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.27-15.58.36:843][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.58.36:884][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.58.36:884][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.27-15.58.36:926][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.58.36:953][928]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2019.01.27-15.58.37:745][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.58.37:828][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.58.37:860][ 30]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.27-15.58.37:861][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.58.37:861][ 30]PIE: New page: PIE session: MainMenu (Jan 27, 2019, 5:58:37 AM)
+[2019.01.27-15.58.37:861][ 30]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_MainMenu
+[2019.01.27-15.58.37:863][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001561s)
+[2019.01.27-15.58.37:863][ 30]LogAIModule: Creating AISystem for world MainMenu
+[2019.01.27-15.58.37:863][ 30]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2019.01.27-15.58.37:863][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/MainMenu.MainMenu to /Game/ThirdPersonCPP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002409s)
+[2019.01.27-15.58.37:901][ 30]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-15.58.37:908][ 30]LogInit: FAudioDevice initialized.
+[2019.01.27-15.58.37:939][ 30]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.58.37:940][ 30]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.01.27-10.58.37
+[2019.01.27-15.58.37:940][ 30]LogWorld: Bringing up level for play took: 0.000563
+[2019.01.27-15.58.37:955][ 30]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_MainMenu 1.047
+[2019.01.27-15.58.37:955][ 30]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.27-15.58.40:559][334]LogNet: Browse: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.58.40:560][334]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.58.40:601][334]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.58.40:637][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034956s)
+[2019.01.27-15.58.40:638][334]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.58.40:638][334]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2019.01.27-15.58.40:638][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.036176s)
+[2019.01.27-15.58.40:638][334]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.58.40:645][334]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.58.40
+[2019.01.27-15.58.40:646][334]LogWorld: Bringing up level for play took: 0.006610
+[2019.01.27-15.58.40:649][334]LogLoad: Took 0.088721 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_0_House)
+[2019.01.27-15.58.44:460][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.27-15.58.44:461][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.58.44:500][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.58.44:500][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.01.27-15.58.44:537][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.58.44:563][727]Cmd: SELECT NONE
+[2019.01.27-15.58.44:564][727]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2019.01.27-15.58.46:628][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.58.46:774][981]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonCPP/Maps/House.House
+[2019.01.27-15.58.46:811][981]Cmd: MAP LOAD FILE="C:/Users/Chris/OneDrive/Documents/GitHub/A-Cat-s-Tale/ACatsTale/Content/ThirdPersonCPP/Maps/House.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-15.58.46:811][981]LightingResults: New page: Lighting Build
+[2019.01.27-15.58.46:813][981]LoadErrors: New page: Loading map: House.umap
+[2019.01.27-15.58.46:813][981]MapCheck: New page: Map Check
+[2019.01.27-15.58.46:813][981]LightingResults: New page: Lighting Build
+[2019.01.27-15.58.46:910][981]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-15.58.46:980][981]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-15.58.46:980][981]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.179ms to complete.
+[2019.01.27-15.58.46:982][981]LogFileHelpers: Loading map 'House' took 0.173
+[2019.01.27-15.58.49:853][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.58.49:916][255]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.58.49:954][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.58.49:954][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.58.49:954][255]PIE: New page: PIE session: House (Jan 27, 2019, 5:58:49 AM)
+[2019.01.27-15.58.49:954][255]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.58.49:990][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035605s)
+[2019.01.27-15.58.49:991][255]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.58.49:991][255]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2019.01.27-15.58.49:991][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.036605s)
+[2019.01.27-15.58.50:028][255]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-15.58.50:036][255]LogInit: FAudioDevice initialized.
+[2019.01.27-15.58.50:068][255]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.58.50:074][255]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.58.50
+[2019.01.27-15.58.50:075][255]LogWorld: Bringing up level for play took: 0.006251
+[2019.01.27-15.58.50:090][255]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_House -0.816
+[2019.01.27-15.58.50:091][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.58.52:282][473]LogNet: Browse: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.58.52:283][473]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.58.52:329][473]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.58.52:363][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033407s)
+[2019.01.27-15.58.52:363][473]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.58.52:363][473]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2019.01.27-15.58.52:364][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.034375s)
+[2019.01.27-15.58.52:364][473]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.58.52:371][473]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.58.52
+[2019.01.27-15.58.52:372][473]LogWorld: Bringing up level for play took: 0.006771
+[2019.01.27-15.58.52:375][473]LogLoad: Took 0.091888 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_0_House)
+[2019.01.27-15.58.53:355][570]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Saves Wiped
+[2019.01.27-15.58.54:527][692]LogNet: Browse: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.58.54:528][692]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/House
+[2019.01.27-15.58.54:571][692]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_House
+[2019.01.27-15.58.54:606][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034790s)
+[2019.01.27-15.58.54:606][692]LogAIModule: Creating AISystem for world House
+[2019.01.27-15.58.54:606][692]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2019.01.27-15.58.54:607][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/House.House to /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House (0.035678s)
+[2019.01.27-15.58.54:607][692]LogLoad: Game class is 'ACatsTaleGameMode'
+[2019.01.27-15.58.54:615][692]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2019.01.27-10.58.54
+[2019.01.27-15.58.54:616][692]LogWorld: Bringing up level for play took: 0.007765
+[2019.01.27-15.58.54:618][692]LogLoad: Took 0.090733 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_0_House)
+[2019.01.27-15.58.56:754][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.58.56:754][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.58.56:792][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.58.56:792][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/ThirdPersonCPP/Maps/House.House_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/House.House:PersistentLevel.House'
+[2019.01.27-15.58.56:835][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.58.56:884][901]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2019.01.27-15.59.07:241][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
