@@ -1,22 +1,24 @@
-﻿  Performing full C++ include scan (building a new target)
-  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale).
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale).
   Creating makefile for ACatsTaleEditor (no existing makefile)
   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Parsing headers for ACatsTaleEditor
-    Running UnrealHeaderTool "C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\ACatsTale.uproject" "C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\ACatsTaleEditor\Development\ACatsTaleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for ACatsTaleEditor in 12.6262611 seconds
+    Running UnrealHeaderTool "C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\ACatsTale.uproject" "C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\ACatsTaleEditor\Development\ACatsTaleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ACatsTaleEditor in 23.138418 seconds
   Building 10 actions with 8 processes...
     [1/10] PCLaunch.rc
     [2/10] SharedPCH.Engine.cpp
-    [3/10] ACatsTaleCharacter.cpp
+    [3/10] ACatsTale.cpp
     [4/10] ACatsTale.init.gen.cpp
-    [5/10] ACatsTaleGameMode.cpp
-    [6/10] ACatsTaleCharacter.gen.cpp
-    [7/10] ACatsTaleGameMode.gen.cpp
-    [8/10] ACatsTale.cpp
+    [5/10] ACatsTaleGameMode.gen.cpp
+    [6/10] ACatsTaleGameMode.cpp
+    [7/10] ACatsTaleCharacter.gen.cpp
+    [8/10] ACatsTaleCharacter.cpp
     [9/10] UE4Editor-ACatsTale.lib
-       Creating library C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Development\ACatsTale\UE4Editor-ACatsTale.lib and object C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Development\ACatsTale\UE4Editor-ACatsTale.exp
+       Creating library C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Development\ACatsTale\UE4Editor-ACatsTale.lib and object C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Development\ACatsTale\UE4Editor-ACatsTale.exp
     [10/10] UE4Editor-ACatsTale.dll
-       Creating library C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Development\ACatsTale\UE4Editor-ACatsTale.suppressed.lib and object C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Development\ACatsTale\UE4Editor-ACatsTale.suppressed.exp
+       Creating library C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Development\ACatsTale\UE4Editor-ACatsTale.suppressed.lib and object C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Development\ACatsTale\UE4Editor-ACatsTale.suppressed.exp
   Deploying ACatsTaleEditor Win64 Development...
-  Total build time: 69.61 seconds (Parallel executor: 50.71 seconds)
+UnrealBuildTool : error : Failed to write dependency cache: Access to the path 'C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\ACatsTaleEditor' is denied.
+UnrealBuildTool : error : Failed to write FlatCPPIncludeDependencyCache: Access to the path 'C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\ACatsTaleEditor' is denied.
+  Total build time: 181.69 seconds (Parallel executor: 58.63 seconds)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""E:\Epic Games\UE_4.21\Engine\Build\BatchFiles\Build.bat" ACatsTaleEditor Win64 Development "C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\ACatsTale.uproject" -WaitMutex -FromMsBuild" exited with code -1.

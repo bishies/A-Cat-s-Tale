@@ -24,9 +24,9 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Inc\ACatsTale
-/I C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Source
-/I C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Source\ACatsTale
+/I "C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Inc\ACatsTale"
+/I "C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Source"
+/I "C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Source\ACatsTale"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -416,16 +416,17 @@
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\ACatsTaleEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\ACatsTaleEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\ACatsTaleEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Inc\ACatsTale\ACatsTaleGameMode.gen.cpp"
-/FI"C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Development\ACatsTale\Definitions.ACatsTale.h"
-/Fo"C:\Users\Chris\OneDrive\Documents\GitHub\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Development\ACatsTale\ACatsTaleGameMode.gen.cpp.obj"
+/FI"C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\ACatsTaleEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\ACatsTaleEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\ACatsTaleEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Inc\ACatsTale\ACatsTaleGameMode.gen.cpp"
+/FI"C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Development\ACatsTale\Definitions.ACatsTale.h"
+/Fo"C:\Users\desti\Documents\Unreal Projects\A Cat's Tale\A-Cat-s-Tale\ACatsTale\Intermediate\Build\Win64\UE4Editor\Development\ACatsTale\ACatsTaleGameMode.gen.cpp.obj"
 /TP
 /GR-
 /W4
